@@ -1,0 +1,66 @@
+[06-Feb-2015 11:05:20 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ']' in /home/myw4be7e/public_html/m/application/controllers/book.php on line 104
+[06-Feb-2015 11:26:22 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/test.php on line 109
+[06-Feb-2015 11:26:22 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/test.php on line 109
+[06-Feb-2015 11:26:22 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/test.php on line 109
+[06-Feb-2015 11:26:41 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/test.php on line 109
+[06-Feb-2015 11:26:41 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/test.php on line 109
+[06-Feb-2015 11:27:09 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 30
+[06-Feb-2015 11:27:09 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 30
+[06-Feb-2015 11:27:09 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 30
+[06-Feb-2015 11:27:09 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 30
+[06-Feb-2015 11:27:09 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 30
+[06-Feb-2015 11:27:09 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 30
+[06-Feb-2015 11:27:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/myw4be7e/public_html/m/application/controllers/book.php on line 196
+[06-Feb-2015 11:27:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/myw4be7e/public_html/m/application/controllers/book.php on line 196
+[06-Feb-2015 11:27:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/myw4be7e/public_html/m/application/controllers/book.php on line 196
+[06-Feb-2015 11:27:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/myw4be7e/public_html/m/application/controllers/book.php on line 196
+[06-Feb-2015 11:27:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/myw4be7e/public_html/m/application/controllers/book.php on line 196
+[06-Feb-2015 11:27:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 244
+[06-Feb-2015 11:27:13 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 537
+[06-Feb-2015 11:27:13 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 537
+[06-Feb-2015 11:27:13 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 537
+[06-Feb-2015 11:27:13 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 537
+[06-Feb-2015 11:27:13 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 537
+[06-Feb-2015 17:16:12 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ']' in /home/myw4be7e/public_html/m/application/controllers/book.php on line 104
+[06-Feb-2015 17:16:12 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/myw4be7e/public_html/m/application/controllers/book.php on line 196
+[06-Feb-2015 17:16:12 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/myw4be7e/public_html/m/application/controllers/book.php on line 428
+[06-Feb-2015 17:16:12 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/myw4be7e/public_html/m/application/controllers/book.php on line 428
+[06-Feb-2015 17:16:14 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/myw4be7e/public_html/m/application/controllers/book.php on line 428
+[06-Feb-2015 17:16:14 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/myw4be7e/public_html/m/application/controllers/book.php on line 428
+[06-Feb-2015 17:16:14 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/myw4be7e/public_html/m/application/controllers/book.php on line 428
+[06-Feb-2015 17:16:14 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/myw4be7e/public_html/m/application/controllers/book.php on line 428
+[06-Feb-2015 17:16:14 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/myw4be7e/public_html/m/application/controllers/book.php on line 428
+[06-Feb-2015 17:16:14 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/myw4be7e/public_html/m/application/controllers/book.php on line 428
+[06-Feb-2015 17:16:14 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/myw4be7e/public_html/m/application/controllers/book.php on line 428
+[06-Feb-2015 17:16:14 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/myw4be7e/public_html/m/application/controllers/book.php on line 428
+[06-Feb-2015 17:16:14 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/myw4be7e/public_html/m/application/controllers/book.php on line 428
+[06-Feb-2015 17:16:14 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/myw4be7e/public_html/m/application/controllers/book.php on line 428
+[06-Feb-2015 18:10:28 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 280
+[06-Feb-2015 18:37:53 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 148
+[06-Feb-2015 18:46:28 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 30
+[06-Feb-2015 18:46:28 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 30
+[06-Feb-2015 18:46:50 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ']' in /home/myw4be7e/public_html/m/application/controllers/test.php on line 108
+[06-Feb-2015 18:49:16 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 20
+[06-Feb-2015 18:49:16 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 30
+[06-Feb-2015 22:09:41 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 30
+[06-Feb-2015 22:33:12 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 30
+[06-Feb-2015 22:42:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 244
+[06-Feb-2015 22:42:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 280
+[06-Feb-2015 22:42:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 280
+[06-Feb-2015 22:42:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/myw4be7e/public_html/m/application/controllers/book.php on line 331
+[06-Feb-2015 22:42:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/myw4be7e/public_html/m/application/controllers/book.php on line 331
+[06-Feb-2015 22:42:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/myw4be7e/public_html/m/application/controllers/book.php on line 331
+[06-Feb-2015 22:42:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/myw4be7e/public_html/m/application/controllers/book.php on line 331
+[06-Feb-2015 22:42:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/myw4be7e/public_html/m/application/controllers/book.php on line 331
+[06-Feb-2015 22:42:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/myw4be7e/public_html/m/application/controllers/book.php on line 331
+[06-Feb-2015 22:42:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/myw4be7e/public_html/m/application/controllers/book.php on line 331
+[06-Feb-2015 23:15:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 377
+[07-Feb-2015 00:39:08 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 376
+[07-Feb-2015 01:51:39 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ']' in /home/myw4be7e/public_html/m/application/controllers/book.php on line 104
+[07-Feb-2015 03:51:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 30
+[07-Feb-2015 03:51:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end in /home/myw4be7e/public_html/m/application/controllers/book.php on line 73
+[07-Feb-2015 13:37:37 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/myw4be7e/public_html/m/application/controllers/book.php on line 30
+[07-Feb-2015 13:37:38 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/myw4be7e/public_html/m/application/controllers/book.php on line 30
+[07-Feb-2015 13:37:38 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/myw4be7e/public_html/m/application/controllers/book.php on line 30
+[07-Feb-2015 13:42:52 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_ENCAPSED_AND_WHITESPACE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/myw4be7e/public_html/m/application/controllers/book.php on line 515
+[07-Feb-2015 13:42:52 Asia/Bangkok] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_ENCAPSED_AND_WHITESPACE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/myw4be7e/public_html/m/application/controllers/book.php on line 515

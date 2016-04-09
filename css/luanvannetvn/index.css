@@ -1,0 +1,245 @@
+.close {
+  font-size: 25px;
+  position: absolute;
+  margin-top: -1px;
+  color:gray!important;
+  opacity: 1!important;
+  display:inline-block;
+}
+.adv_bottom_top {
+  margin-top:-21%!important;
+}
+.adv_ants_left {
+  z-index: 100 !important;
+  position: absolute;
+  margin-top: -577px;
+  width: 160px;
+  height: 630px;
+  margin-left: 1px;
+  z-index: 1000000;
+  background: -webkit-gradient(linear, 0 0, 0 100%, from(rgba(0, 0, 0, .2)), color-stop(0.05, rgba(0, 0, 0, 0)), color-stop(0.97, rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, .45))), -webkit-gradient(linear, 0 0, 100% 0, from(rgba(0, 0, 0, .2)), color-stop(0.002, rgba(0, 0, 0, 0)), color-stop(0.998, rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, .2))), url('data:image/png;base64') no-repeat 50% 50%, -webkit-gradient(linear, 0 100%, 0 0, from(rgb(106,185,44)), color-stop(0.5, rgb(106,185,44)), color-stop(0.51, rgb(106,185,44)), to(rgb(106,185,44)));
+}
+.adv_ants_giao_an_left {
+  z-index: 100 !important;
+  position: absolute;
+  margin-top: -627px;
+  width: 160px;
+  height: 630px;
+  margin-left:15px;
+  background: -webkit-gradient(linear, 0 0, 0 100%, from(rgba(0, 0, 0, .2)), color-stop(0.05, rgba(0, 0, 0, 0)), color-stop(0.97, rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, .45))), -webkit-gradient(linear, 0 0, 100% 0, from(rgba(0, 0, 0, .2)), color-stop(0.002, rgba(0, 0, 0, 0)), color-stop(0.998, rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, .2))), url('data:image/png;base64') no-repeat 50% 50%, -webkit-gradient(linear, 0 100%, 0 0, from(rgb(106,185,44)), color-stop(0.5, rgb(106,185,44)), color-stop(0.51, rgb(106,185,44)), to(rgb(106,185,44)));
+}
+.header_quotations {
+  position: fixed;
+  margin-top: 22px;
+  z-index:10000;
+}
+.header_quotations a:link{
+	color:#0D9513;
+}
+#modal_login {
+  width: 30%!important;
+  top: 70%!important;
+  display: block;
+  height: 41%!important;
+  margin-left: 10%!important;
+}
+html {
+overflow:hidden;
+}
+#modal_register {
+	margin-left:0%!important;
+	z-index:-1;
+	margin-top:-19%;
+}
+.show_modal_register {
+	z-index:1000000!important;
+} 
+#ebook_wrapper_table span:hover {
+	color:white!important;
+}
+
+#globalheader {
+width: 99.8%!important;
+margin-left: 160px;
+margin-top: -10px;
+}
+#globalheader a {
+font-size:16px;
+}
+#globalheader a:link {
+	color:white !important;
+	margin-left:5px;
+}
+
+a:hover {
+	color:gray!important;
+}
+a:hover {
+	color:red!important;
+}
+
+#ebook_wrapper_table {
+	background:url("/images/bookshelf/giasach.png");
+	height:90%;
+	width: 90%;
+	margin-top:40px;
+	margin-left:10%;
+}
+
+.ebook_div_item {
+    border-radius: 5px;
+	cursor:pointer;
+	position: relative;
+	z-index:90000;
+	margin-left:45px;
+
+}
+.ebook_div_item span {
+    font-size: 15px;
+    margin-top: 4px;
+    display: block;
+	color: rgb(14, 21, 9);
+	font-weight: 500;
+	max-width: 315px;
+}
+.ebook_div_item button {
+    display: none;
+    height: 30px;   
+	margin-left: -45px;
+	margin-top: -75px;
+}
+.div_clear_both{
+    clear: both
+}
+
+.ebook_thumbs {
+    width:120px;
+    height:90px;
+    margin-top: 10px;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-bottom-color: -moz-use-text-color;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: -moz-use-text-color;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: none;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: medium;
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: -moz-use-text-color;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: none;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: medium;
+    border-top-color: -moz-use-text-color;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-top-style: medium;
+    border-top-width: medium;
+	box-shadow: 2px 2px 8px #D6D6D6;
+}
+
+.modal {
+    width: 95%;
+    height: 100%;
+    display: block;
+    position: absolute;
+    left: 23%;
+}
+
+.modal span {
+    font-size: 18px;
+    font-weight: bold;
+    text-shadow: 4px 4px 4px #aaa;
+	margin-left: 10px;
+}
+
+.count_by_category {
+    color: red;
+    padding-left: 5px;
+	font-size:14px;
+	box-shadow:0px 0px 0px white;
+}
+
+.breadcrumb {
+	margin-top: -40px!important;
+	width: 95%!important;
+	margin-left: 18px!important;
+	background-color: transparent;
+	position: absolute;
+
+}
+
+.breadcrumb li a {
+	font-size:18.5px;
+	color:rgb(255, 255, 255);
+}
+
+.breadcrumb li {
+	text-shadow:0px 0px 0px #ffffff;
+}
+#ebook_body {
+	margin-top:-22%;
+	height: 98%;
+}
+
+.modal-body iframe {
+	width:75%;
+	height:90%
+}
+
+#add_to_my_library {
+	float: right;
+    display: inline-block;
+    padding-right: 10px;
+    padding-top: 3px;
+    margin-left: -40px;
+}
+
+#invite_friend_to_read {
+	float: right;
+    display: inline-block;
+    padding-right: 40px;
+    padding-top: 3px;
+}
+.modal-header button {
+	margin-left:15px;
+}
+
+tbody {
+	margin-top: 20px;
+	display: block;
+}
+
+tr {
+	height: 175px;
+	padding-bottom: 0px;
+	display: table-row;
+}
+
+.ebook_count {
+	color:red;
+	font-size:14px;
+}
+
+.breadcrumb .divider {
+	padding: 0 5px;
+	color: white;
+}

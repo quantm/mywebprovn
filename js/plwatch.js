@@ -1,0 +1,8 @@
+if(!pautonext)var pautonext=true;if(!resizePlayer)var resizePlayer=false;if(!light)var light=true;if(!miniPlayer)var miniPlayer=true;var orgPlayerSize={'width':0,'height':0};var docHeight=17;var Player={};Player.Box=function(filmID){var filmNAME=$(".item.toggle-addbox.hidden-sm.hidden-xs span.wrap").attr("data");var boxON=$(".item.toggle-addbox.hidden-sm.hidden-xs").attr("data-on");var boxOFF=$(".item.toggle-addbox.hidden-sm.hidden-xs").attr("data-off");$.get(AjaxURL,{filmBox:1,filmID:1},function(c){if(c==1){$(".item.toggle-addbox.hidden-sm.hidden-xs span.wrap span").html(boxON);Message('Bạn có thể đăng nhập để phim '+filmNAME+' được thêm vào BST yêu thích nhé!','info');}else if(c==2){Message('Phim '+filmNAME+' đã có trong BST yêu thích của bạn!','info');}else if(c==3){$(".item.toggle-addbox.hidden-sm.hidden-xs span.wrap span").html(boxON);Message('Đã thêm phim '+filmNAME+' vào mục yêu thích của bạn!','info');}});return false;};var PhimLe=function(EpisodeId,FilmId){$("#fxloading").css({"display":"block"});$.get(AjaxURL,{NextEpisode:1,EpisodeID:EpisodeId,filmID:FilmId},function(video){$('#film_data').html(video);load_film()});}
+function load_film(){
+	var config='{"controls":true,"autoplay":true,"preload":"true","poster":"http://xahoihoctap.net.vn/images/background/film_cover.jpg"}',
+		 link=$('#film_data video source').attr('src')
+	$('.wrapper .video_content').prepend('<h1 class="video_title_vnhaccuatui font-effect-fire">'+$('title').html()+'</h1><video data-setup='+config+' width="800" height="600" class="video-js vjs-default-skin my_htm5_video"><source src='+link+' type="video/mp4"/></video>')	
+	$('video').trigger('play')
+	$('#film_data').remove()
+}

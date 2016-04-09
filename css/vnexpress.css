@@ -1,0 +1,7 @@
+.block_news_big {
+border-radius: 5px 5px 5px 5px;
+}
+#news_home.list_news .thumb img {
+border-radius: 5px 5px 5px 5px;
+padding-bottom: 1px;
+}

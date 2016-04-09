@@ -1,0 +1,170 @@
+
+/* GENERAL */
+a, a:hover {
+    text-decoration: none;
+    color: #007FC2;
+}
+
+.header {
+    background: url("/images/luanvan/header-title.gif") no-repeat scroll right -29px transparent;
+    float: left;
+    height: 29px;
+    overflow: hidden;
+    padding-right: 5px;
+}
+
+
+.box-header {
+	background: url("/images/luanvan/header_background.gif") no-repeat scroll 0 0 transparent;
+    float: left;
+    height: 29px;
+    overflow: hidden;
+    width: 195px;
+    color: #fff;
+    font-weight: bold;
+    padding-top: 8px;
+}
+
+.box {
+    clear: both;
+	border: 1px solid #CCCCCC;
+    border-top: none;
+	padding:5px;
+}
+
+.box-header span {
+    padding-left: 10px;
+}
+
+.box-header img {
+    vertical-align: middle;
+    padding-right: 5px;
+}
+
+.box-header h1 {
+    font-weight: bold;
+    padding-left: 10px;
+}
+/* Layout 1 */
+.box-header-center {
+    width: 785px;
+}
+
+.box-header-center ul li {
+    display: inline;
+    margin-left: 10px;
+    padding: 1px 10px;
+}
+
+.box-header-center ul li a {
+    color: #fff;
+}
+
+.box-header-center ul li.selected, .box-header-main ul li:hover {
+    background-color: #fff;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;
+}
+
+.box-header-center ul li.selected a, .box-header-main ul li:hover a {
+    color: #105485;
+}
+
+/* Layout 2 */
+.box-header-main {
+    width: 685px;
+}
+.box-header-adv {
+    width: 295px;
+}
+
+
+
+/* DOCUMENT CATEGORIES */
+.document-categories ul li {
+    font-size: 1.1em;
+    clear: both;
+    display: block;
+    line-height: 25px;
+    font-size: 11px;
+}
+
+.document-categories ul li a {
+    background: url("Images/bluearrow.gif") no-repeat scroll 0 center transparent;
+    padding-left: 15px;
+    font-weight: 700;
+}
+
+.document-categories ul li span {
+    padding-left: 5px;
+}
+
+.document-categories ul li ul.sub li {
+    padding-left: 20px;
+    font-weight: normal;
+}
+
+.document-categories ul li ul.sub li a {
+    background: url("Images/subicon.gif") no-repeat scroll 0 center transparent;
+}
+
+.document-categories ul li.selected {
+    background: #cce3f5;
+}
+
+.document-categories ul li ul li.selected {
+    background: #e2f0fb;
+}
+
+
+/* document-collection */
+.document-collection ul li {
+    background: url("Images/folder16x16.gif") no-repeat scroll 0 center transparent;
+    font-size: 1.1em;
+    clear: both;
+    display: block;
+    line-height: 25px;
+    padding-left: 25px;
+    font-size: 11px;
+}
+
+.document-collection ul li a {
+    font-weight: 700;
+}
+
+.document-collection ul li span {
+    padding-left: 5px;
+}
+
+/* documents */
+#documents .box ul li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    clear: left;
+	height: 120px;
+    border-bottom: 1px dotted #cccccc;
+}
+
+#documents .box ul li img.illustration {
+    float: left;
+    margin-right: 10px;
+	width: 80px;
+	height: 100px;
+	border: 3px solid #E4E4E4;
+}
+#documents .box ul li a.title {
+    font-weight: bold;
+}
+
+#documents .box ul li p.description {
+    margin: 5px 0;
+    line-height: 1.5em;
+}
+
+#documents .box ul li img.icon {
+    margin-right: 3px;
+}
+
+/* viewdoc */

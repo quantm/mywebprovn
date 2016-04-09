@@ -1,0 +1,11 @@
+$(document).ready(function(){
+       $(".column-center-outer").addClass("main_frame")
+       $(".column-right-inner").addClass("side_bar")
+       $(".main-outer").addClass("outer")
+       $(".region-inner footer-inner").addClass("nav_footer")
+       $(".footer-outer").remove()
+	   $(".widget-item-control").remove()
+       $("h3").addClass("font-effect-3d-float")
+	   $("#header").attr("style","margin-left:-27%;margin-top:-5%")
+	   $(".title a").css("font-size","25px")
+   })

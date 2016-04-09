@@ -1,0 +1,10 @@
+$(document).ready(function(){
+$("form").remove()
+$("#cungdau").remove();
+$(".tacgia").next().remove()
+$(".tacgia").next().next().remove()
+$(".tacgia").next().next().next().remove()
+$("script").remove();
+$(".tacgia,#p-cactions,#ads_zone424,#ad6,#af-embed-wrap,#footer,#ads_zone432").remove()
+//$(".testMonobook2").find("li")[1].remove()
+})

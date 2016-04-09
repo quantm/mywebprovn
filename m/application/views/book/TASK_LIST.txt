@@ -1,0 +1,79 @@
+﻿TASK LIST
+1. Tìm kiếm game hay thêm vào trang web http://myweb.pro.vn
+2. Xây dựng chức năng tuỳ chọn chuyên mục báo để đọc
+3. Làm tab Mbooks
+
+
+
+CHỨC NĂNG XEM VIDEO 
+MYGAME
+MOBILE DEVICE TRA MA SO KARAOKE
+
+
+TAILIEUHOCTAP.VN
+TAILIEU.VN
+
+edit avartar
+taimienphi.vn
+kiem tra javascript doing toefl
+proshow producer 
+
+code demo php
+
+toefl listening
+
+bach khoa tri thuc
+game
+
+pageview 463
+
+
+SELECT NAME,EMBED_TYPE GAME_PATH FROM `game_index` where GAME_PATH like '%3d-hd%'	
+
+
+GAME URL
+
+
+
+DATA FOR MOBILE
+
+http://taigame.net/danh-sach/16-Game-Online/
+
+http://taigame.net/
+
+
+
+
+http://www.silvergames.com/big-farm
+http://www.337.com/en/webgameplay/ns_45
+http://www.goodgamestudios.com/games/
+http://1000webgames.com
+http://www.agame.com/game/goodgame-poker
+
+	
+GAME_INDEX FINAL CRAWL ID :235
+
+https://www.facebook.com/tran.chanh.908?fref=pb&hc_location=profile_browser
+
+
+
+MOBILE FOR LUANVAN
+
+http://issuu.com/
+
+
+
+
+
+EBOOK URL 
+http://vndoc.com/
+http://tailieu.down.vn/
+http://idoc.vn/
+http://hocrong.com/gioi-thie%CC%A3u/ ('trắc nghiệm')
+http://www.loyalbooks.com/
+http://www.gutenberg.org/wiki/Main_Page
+http://www.free-ebooks.net/
+http://www.freetechbooks.com/
+http://www.ebooktiengviet.com/
+http://www.ebook.edu.vn/
+http://thuvienhoasen.org/

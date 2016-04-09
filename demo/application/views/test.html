@@ -1,0 +1,95 @@
+
+<style type = "text/css">
+        #bubble_tooltip{
+		width:210px;
+                position:absolute;
+                display: none;
+        }
+        #bubble_tooltip .bubble_top{
+                position:relative;
+                background-image: url(/images/htooltip/bubble_top.gif);
+                background-repeat:no-repeat;
+                height:18px;
+                }
+        #bubble_tooltip .bubble_middle{
+                position:relative;
+                background-image: url(/images/htooltip/bubble_middle.gif);
+                background-repeat: repeat-y;
+                background-position: bottom left;
+        }
+        #bubble_tooltip .bubble_middle div{
+		padding-left: 12px;
+                padding-right: 20px;
+                position:relative;
+                font-size: 11px;
+                font-family: arial, verdana, san-serif;
+                text-decoration: none;
+                color: red;	
+		text-align:justify;	
+        }
+        #bubble_tooltip .bubble_bottom{
+                background-image: url(/images/htooltip/bubble_bottom.gif);
+                background-repeat:no-repeat;
+                height:65px;
+                position:relative;
+                top: 0px;
+        }
+</style>
+    
+<!-- Script by hscripts.com -->
+
+
+<script type="text/javascript">
+            var text1="The tooltip is an easy way of interaction for the visitors in a web page ";
+            var text2="For webhosting, please contact us at support@hiox.com";                    
+
+//This is the text to be displayed on the tooltip.
+
+if(document.images){
+  pic1= new Image(); 
+  pic1.src='htooltip/bubble_top.gif'; 
+  pic2= new Image();
+  pic2.src='htooltip/bubble_middle.gif'; 
+  pic3= new Image(); 
+  pic3.src='htooltip/bubble_bottom.gif'; 
+}
+
+function showToolTip(e,text){
+               if(document.all)e = event;
+                var obj = document.getElementById('bubble_tooltip');
+                var obj2 = document.getElementById('bubble_tooltip_content');
+		obj2.innerHTML = text;
+                obj.style.display = 'block';
+                var st = Math.max(document.body.scrollTop,document.documentElement.scrollTop);
+                if(navigator.userAgent.toLowerCase().indexOf('safari')>=0)st=0; 
+                var leftPos = e.clientX-2;
+                if(leftPos<0)leftPos = 0;
+                obj.style.left = leftPos + 'px';
+                obj.style.top = e.clientY-obj.offsetHeight+2+st+ 'px';
+        }       
+        function hideToolTip()
+        {
+                document.getElementById('bubble_tooltip').style.display = 'none';
+        }
+
+</script>
+<!-- Script by hscripts.com -->
+
+
+<!-- Script by hscripts.com -->
+
+<table id="bubble_tooltip" border=0 cellpadding=0 cellspacing=0>
+        <tr class="bubble_top"><td></td></tr>
+        <tr class="bubble_middle"><td><div id="bubble_tooltip_content"></div></td></tr>
+        <tr class="bubble_bottom"><td colspan=5></td></tr>
+</table>
+
+      Just move your mouse cursor over the button or image.<br><br>
+
+<input type="button" id="b1" value="BUTTON" onmouseover="showToolTip(event,text1)" onmouseout="hideToolTip()"></input>
+<br><br>
+
+<a href="#"  onmouseover="showToolTip(event,text2)" onmouseout="hideToolTip()"> LINK </a>
+
+<!-- Script by hscripts.com -->
+

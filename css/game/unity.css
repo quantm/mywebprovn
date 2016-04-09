@@ -1,0 +1,179 @@
+.game_thumb {
+	height: 75;
+	width: 75px;
+	border-radius: 5px;
+}
+.ads_bottom_wrapper {
+	width: 728px;
+	height: 110px;
+	position: absolute;
+	margin-left: 15px;
+	margin-top: -145px;
+}
+.game_category img {
+	border-radius: 3px 3px 3px 3px;
+	margin-left: 6%;
+	margin-top: 5px;
+	width:45px;
+	height:34px;
+}
+.game_category {
+	float: right;
+	width: 160px;
+	margin-top:20px;
+	position: fixed;
+	margin-left: 88%;
+	line-height: 0.5px;
+	font-size: 13px;
+	height: 600px;
+	overflow: hidden;
+}
+.game_category a:link {
+	margin-left: 15px;
+	color: #d90000;
+	margin-top: 25px;
+	position: absolute;
+	text-decoration: none!important;
+}
+.social_shared {
+float:right;
+}
+.game_video_icon {
+float: right;
+<?=$is_video?>
+position: absolute;
+margin-left: 96.5%;
+color:rgb(226, 20, 20);
+cursor:pointer;
+margin-top: 4px;
+}
+#ads_micro_right {
+position: fixed;
+margin-left:10px;
+margin-top:20px;
+width: 160px;
+height: 490px;
+}
+.social_shared {
+float:right;
+}
+
+#li_cach_choi {
+margin-left: 25%;
+margin-top: -21px;
+}
+#chat_is_login {
+margin-left: 50%;
+margin-top: -8px;
+}
+#key_description li,.chat_comment li {
+width:125px!important ;
+display:inline-block;
+}
+#MicrosoftTranslatorWidget {
+display:none !important;
+}
+#WidgetFloaterPanels {
+display:none !important;
+}
+.adsense_wrapper {
+margin-top:10px !important;
+margin-left:90.5% !important;
+}
+#game_key p {
+color:black !important;
+width:225px;
+margin-left:20px;
+margin-top:5px;
+}
+#___plusone_0 {
+margin-left:15px !important;
+}
+#btn_add_to_my_game {
+position:absolute;
+margin-left:85.5%;
+margin-top:-4%
+}
+.ads_header_wrapper {
+width:728px;
+height:90px;
+position:absolute;
+margin-left:410px;
+margin-top:-111px;
+}
+#add_game_success {
+margin-top: -235px;
+display: block;
+margin-left: -400px;
+}
+#comment {
+background-color: rgb(243, 243, 243);
+margin-left: 1% !important;
+margin-top: 10% !important;
+width:728px;
+}
+
+.key_description {
+	margin-left:72%!important;
+}
+a {
+ color:#C633F5;
+}
+.list_chat {
+display:inline-block;
+}
+span {
+cursor:pointer;
+}
+#table_related {
+margin-top:-60px;
+}
+.game_key {
+margin-left: 1%;
+margin-top: 6%;
+position: absolute;
+width: 260px;
+height: 85px;
+}
+
+.key-definition {
+	margin-left:0px!important;
+	margin-top:3px!important;
+}
+
+.key-definition span {
+	margin-left: 30px;
+	margin-top: -20px;
+}
+
+.game_key .key-definition {
+margin-left: 2%;
+margin-top: 1%;
+}
+#key_description {
+display: inline-block;
+position: relative;
+margin-top: 5%;
+width: 265px;
+}
+.key_description .tab-content {
+  width: 330px;
+}
+#description {
+width: 190px;
+text-align: justify;
+color:rgb(156, 119, 50);
+}
+#game_key {
+width: 260px;
+}
+#game_key span {
+	color:white;
+}
+img {
+cursor:pointer;
+}
+#chat {
+display: inline-block;
+width: 200px;
+}

@@ -1,0 +1,95 @@
+#ads_zone18500 {
+	 margin-top:-1px;
+}
+.bg_header_short {
+ background: url(//adi.vcmedia.vn/adt/cpc/zoneimages/bg_header_cpc_short.png) no-repeat 0 0;
+  width: 35px;
+  height: 17px;
+  float:right;
+  cursor: pointer;
+  z-index: 11000;
+}
+.bg_header_short span{
+font-size: 11px!important;
+  color: #888!important;
+  font-family: arial!important;
+  padding-left: 21px!important;
+  line-height: 17px;
+
+}
+#ssvzone_17686,#ssvzone_17676  {
+	background: rgb(238, 244, 245)!important;
+}
+#ads_zone16571 {
+	position: fixed!important;
+	margin-left: -115px!important;
+	margin-top: -29px!important;
+	height: 100%;
+	background-color: #FFF;
+}
+
+#ads_zone18528 {
+	margin-left: -854px!important;
+	margin-top: -498px!important;
+}
+#ssvzone_16622_items .ssvzBorder {
+	background:none!important;
+}
+.relevant-adv *  {
+	border:none!important;
+}
+
+.adv_2_micro_left *,.adv_2_micro_right * {
+  
+}
+
+.adv_2_micro_left {
+  background-color: rgb(238, 244, 245)!important;
+  border:none!important;
+  position:fixed;
+  margin-left: 11.7%;
+  margin-top: 5%;
+  display:none;
+}
+.adv_2_micro_right_focus {
+  background-color: rgb(238, 244, 245)!important;
+}
+.adv_ants_right {
+  border: none!important;
+  position: fixed;
+  margin-left:82.8%;
+  margin-top: 40px;
+  display: block;
+  width: 300px;
+  height: 600px;
+}
+
+.ssvzHeader div {
+	margin-left: 5px!important;;
+}
+.ssvzRight #ssvzone_16552_items .adv_items {
+  margin-left: 10px!important;
+}
+#ads_zone16563 #advZoneSticky{
+left: 1047px!important;
+top: 42px!important;
+}
+#ssvzone_16597_items .ssvzone_16597_items {
+  width: 398px!important;;
+}
+.adv_header_no_border {
+	position: absolute;
+	margin-top: 11%;
+	margin-left: 11%;
+	border: none!important;
+}
+.adv_header_no_border * {
+	border: none!important;
+}
+
+.adv_micro_left {
+position: fixed;
+margin-left:5px;
+  margin-top: 40px;
+z-index:100000;
+}

@@ -1,0 +1,88 @@
+/*#topmenu {margin:1px;width:992px;height:49px;z-index:-10px;}
+#topmenu{float:left;}
+#topmenu a{font-size:12px;}
+.fl{float:left;}
+.f2{float:right;}
+.parent-menu {height:25px;font-size:12px;color:#0a661b;text-align:center;background:#0e9227;background:transparent url(/images/news/giaoduc/topmenu_bg_2.jpg) left bottom repeat-x;vertical-align:middle;}
+.home{margin:2px 5px 2px 12px;}
+.home img{margin:2px 0px 2px 0px;border:none;}
+.pmenu-sep {width:4px;}
+.pmenu-normal{height:15px;padding:5px 3px 5px 3px;cursor:pointer;}
+.pmenu-normal, .pmenu-active, .pmenu-normalleft, .pmenu-normalright, .pmenu-activeleft, .pmenu-activeright {cursor:pointer;}
+.pmenu-normalleft, .pmenu-normalright, .pmenu-activeleft, .pmenu-activeright {width:5px; height:25px;}
+.pmenu-active {height:15px;padding:5px;font-size:12px;color:#fff;background:transparent url(/images/news/giaoduc/pmenu-active.gif) 0 -25px repeat-x;}
+.pmenu-activeleft {width:5px;height:25px;background:transparent url(/images/news/giaoduc/pmenu-active.gif) 0 0px no-repeat;}
+.pmenu-activeright {width:5px;height:25px;background:transparent url(/images/news/giaoduc/pmenu-active.gif) 0 -50px no-repeat;}
+.sub-menu {font-size:12px;color:#fff;height:24px;background:#0e9227 url(/images/news/giaoduc/pmenu-active.gif) 0 -75px repeat-x;margin:0px;padding:0px;}
+.smenu-content {font-size:12px;color:#fff;text-align:left;margin:0px;padding:5px 0px 5px 10px;height:14px;}
+.link-submenu {font-size:12px;color:#fff;background:url(/images/news/giaoduc/square2.gif) left 55% no-repeat;padding:2px 9px 4px 9px;margin:0px;height:18px;}
+.link-submenu:link{font-size:12px;color:#fff;text-decoration:none;}
+.link-submenu:hover {color:#fff;text-decoration:underline;}
+
+*/
+.menu-bottom {border:solid 1px #BDBDBD;margin:1px;height:24px;width:989px;float:left;font:8px tahoma; color:#424242;background:#EBEBEB url(/images/news/giaoduc/rbgheaderpoll.gif) repeat-x;vertical-align:middle;}
+.link-footermenu {font:8px tahoma; color:#fff; text-decoration:none;}
+.bmenu-sep {width:0px;}
+.bmenu-normal{height:10px; padding:4px; cursor:pointer;}
+.bmenu-normal, .bmenu-active, .bmenu-normalleft, .bmenu-normalright, .bmenu-activeleft, .bmenu-activeright {cursor:pointer;}
+.bmenu-normalleft, .bmenu-normalright, .bmenu-activeleft, .bmenu-activeright {width:2px; height:24px;}
+.bmenu-active {height:16px; padding:4px; color:#fff; background:#EC2028 url(/images/news/giaoduc/pmenu-active.gif) repeat-x;}
+.bmenu-activeleft {height:24px; background:#EC2028 url(/images/news/giaoduc/pmenu-active.gif) repeat-x;}
+.bmenu-activeright {height:24px; background:#EC2028 url(/images/news/giaoduc/pmenu-active.gif) repeat-x;} 
+
+
+
+#Navigator {margin:0px;margin-top:1px;height:22px;}
+#Navigator #onlevel {background:transparent url(/images/news/giaoduc/topmenubgl1.gif) left top repeat-x;float:left;width:100%;text-align:left;height:24px;}
+#Navigator #onlevel ul {list-style:none;line-height:1;margin:0px;padding:0px;text-align:center;}
+#Navigator #onlevel ul li {color:#fff;display:inline-block;vertical-align:middle;text-align:center;padding:0px;margin:0px;}
+#Navigator #onlevel ul li span{background:transparent url(/images/news/giaoduc/topmenu_sep.gif) left top repeat-x;height:12px; width:4px;display:inline-block;}
+#Navigator #onlevel ul li a {color:#fff;font-size:8.5px;text-decoration:none;vertical-align:middle;}
+#Navigator #onlevel ul li a:active, a:visited {font-size:8.5px;}
+#Navigator #onlevel ul li a:hover, a:over {color:#970417;}
+
+#Tree {background:#f4f4f4 url(/images/news/giaoduc/bgbottombox.gif) left bottom no-repeat;width:296px;margin:0px 0px -10px 0px;padding:0px 0px 9px 0px;}
+#Tree #header{background:url(/images/news/giaoduc/bgheaders-fix.gif) 0 -27px no-repeat;height:27px;margin:0px;padding:0px;}
+#Tree #header .HeaderItem{text-align:left;float:left;padding:0px 0px 0px 9px;}
+#Tree #header span{color:#fff;font-size:9px;font-weight:bold;}
+#Tree #body{margin:0px;padding:0px;border-left:solid 1px #dbdbdb;border-right:solid 1px #dbdbdb;background:url(/images/news/giaoduc/bg_tuvanduhoc.gif) right bottom no-repeat;}
+
+.VerticalTab{background:url(/images/news/giaoduc/bmn-header.gif) left bottom repeat-x;height:26px;margin:0px;padding:0px;text-align:center;clear:right;}
+.VerticalTab ul{
+	margin:0px;padding:0px;text-align:left;list-style:none;display:block;
+}
+
+/*Top level list items*/
+.VerticalTab ul li{
+	display:inline;
+	float: left; /*overall menu background color*/
+	margin:0px;
+	padding:0px;
+	height:26px;
+}
+
+/*Top level menu link items style*/
+.VerticalTab ul li a
+{
+	display:inline-block;height:20px;
+	/*width: 90px; Width of top level menu link items*/
+	padding:3px 7px 3px 7px;margin:0px;*padding:4px 7px 4px 7px;
+	color:#0e9227;text-decoration:none;
+}
+.VerticalTab ul li a.item{font-size:12px;background:url(/images/news/giaoduc/bmn-header-right.gif) right center no-repeat;}
+.VerticalTab ul li.selected{background:url(/images/news/giaoduc/bmn-header-c-selected.gif) left top repeat-x;}
+.VerticalTab ul li a.first{font-size:12px;font-weight:bold;background:url(/images/news/giaoduc/bmn-header-r-selected.gif) right top no-repeat;}
+.VerticalTab ul li a.last{font-size:12px;}
+
+.VerticalTab ul li a:hover{
+	color:#0e9227;
+	text-decoration:none;
+}
+
+* html p#iepara{ /*For a paragraph (if any) that immediately follows suckertree menu, add 1em top spacing between the two in IE*/
+	padding-top: 0;
+}
+	
+/* Holly Hack for IE \*/
+* html .VerticalTab ul li { float: left; height: 0%; }
+* html .VerticalTab ul li a { height: 0%; }

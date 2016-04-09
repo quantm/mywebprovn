@@ -1,0 +1,247 @@
+.social_like {
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(1, #F9F9F9));
+background: -moz-linear-gradient(top, #fff, #F9F9F9);
+border: 1px solid #ccc;
+float: left;
+padding: 0 0 3px 0;
+position: fixed;
+left: 0;
+z-index: 10;
+border-radius: 2px 2px 2px 2px;
+box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+width: 100px;
+width: 75px;
+height: 180px;
+margin-left:1%;
+}
+.social_like div, #twitter-widget-0 {
+margin-left:0px !important;
+}
+.box_erro_area {
+color:red;
+font-size:12px;
+}
+.user_avatar {
+width: 32px;
+height: 32px;
+margin-top: 6px;
+border-radius: 5px 5px 5px 5px;
+} 
+
+.breadcrumb {
+margin-left: 10%;
+margin-top: 60px;
+width: 79%;
+}
+#span_remember_me {
+color:black;
+}
+
+.div_clear_both{
+clear: both
+}
+
+.header-item {
+display:inline-block;
+width:20%;
+}
+
+
+.icon-thumbs-up:before {
+content: "";
+}
+[class^="icon-"]:before, [class*=" icon-"]:before {
+-moz-text-decoration-color: inherit;
+-moz-text-decoration-line: inherit;
+-moz-text-decoration-style: inherit;
+display: inline-block;
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+}
+.like-icon {
+color: #005782;
+}
+.icon-thumbs-up {
+}
+
+.ic-fb, .ic-tw, .ic-gg, .ic-tb {
+height: 24px;
+width: 24px;
+}
+
+book_invite {
+float:right;
+padding-right:5px;
+}
+
+.google_plus_invite {
+float:right;
+padding-right:5px;
+}
+
+.twitter_invite {
+float:right;
+padding-right:5px;
+}
+
+
+.header_pagination {
+float:right;
+width:25%;
+}
+
+.header_pagination .currentpage {
+color:red;
+}
+
+.header_pagination a {
+padding-left:5px;
+}
+
+.pagination a {
+padding: 1px 3px 1px 1px;
+}
+.pagination .currentpage  {
+color:red;
+font-weight:bold;
+}
+
+.loading_show {
+display:inline-block;
+margin-left:450%;
+}
+
+hr {
+margin-top:-20px;
+}
+
+.modal-header {
+padding: 3px;
+padding-bottom: 5px;
+margin-top:5px;   
+}
+
+#invite_friend{
+float: right;
+display: inline-block;
+padding-right: 40px;
+padding-top: 3px;
+}
+
+.btn-facebook {
+background-color: #2B4B90;
+background-image: linear-gradient(to bottom, #3B5998, #133783);
+background-repeat: repeat-x;
+border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+color: #FFFFFF;
+text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+position:absolute;
+margin-left: 30%;
+margin-top: -11px;
+}
+.btn-primary {
+position:absolute;
+margin-top: -11px;
+}
+.btn-google {
+background-color: #DD3240;
+background-image: linear-gradient(to bottom, #FF0000, #D60000);
+background-repeat: repeat-x;
+border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+color: #FFFFFF;
+text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+
+.modal-header h4 {
+margin-left: 15px;
+color:black;;
+}
+
+.language {
+position: absolute;
+margin-top: 8px;
+}
+
+
+.logo {
+margin-left: 70px;
+}
+body {
+margin: 0px; padding: 0;
+background: #fff;
+padding-bottom: 1px;
+font-size: 11.5px !important;
+margin-top: 0px;
+}
+
+.clr { clear: both; overflow:hidden; height: 10px; }
+
+a:link    { color: #000000; text-decoration: none; }
+a:visited { color: #0B55C4; text-decoration: none; }
+a:hover   { text-decoration: none; }
+
+#button {
+background-color:#E6E6E6;
+border-color:#fff rgb(116,116,116) rgb(116,116,116) rgb(255,255,255);
+border-style:solid;
+border-width:2px;
+color:#333;
+cursor:pointer;
+font-family:verdana;
+font-size:80%;
+font-size-adjust:none;
+font-stretch:normal;
+font-style:normal;
+font-variant:normal;
+font-weight:bold;
+line-height:normal;
+overflow:visible;
+padding:2px 8px;
+margin-right:7px;
+}
+
+#header_default_image {
+height: 75px;
+width:100%;
+}
+
+
+#default_login { 
+display: block;
+}
+
+#default_login tr td {
+padding-left:15px;
+color:black;
+}
+
+.register_left {
+margin-left:5%;
+}
+
+#modal_register iframe {
+height:545px;
+width: 830px;
+border:none;
+overflow:hidden;
+}
+#modal_register {
+  width: 875px;
+  margin-left: -32%	;
+  margin-top: -19%;
+  overflow: hidden;
+  height: 90%;
+}
+
+#modal_register .modal-header {
+border-bottom: none;
+}
+
+.fa-search {
+margin-left: 225px;
+cursor: pointer;
+position: absolute;
+margin-top: -20px;
+}
+

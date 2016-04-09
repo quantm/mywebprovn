@@ -1,0 +1,35 @@
+#toefl_reading {
+
+}
+.font-effect-putting-green {
+	margin-top: 35px;
+	margin-left: 15px;
+}
+
+.cover_picture {
+	margin-left: 30%;
+	margin-top: 1%;
+}
+.toefl-learning-section {
+	font-family: 'Tangerine', serif;
+	font-size: 25px;
+	text-shadow: 4px 4px 4px #aaa;
+	margin-left: 1%;
+}
+.section-content-reading,.section-content-listening ,.section-content-practice,.section-content-essay{
+	margin-left: 2%;
+	margin-right: 2%;
+	font-size: 18px;
+}
+hr {
+	margin-left: -1%;
+	margin-top:-10px!important;
+}
+#ads_toefl_right {
+position: absolute;
+margin-left: 75%;
+margin-top: -275px;
+}
+sub a {
+	color:rgb(198, 90, 90) !important;
+}

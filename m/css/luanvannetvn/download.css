@@ -1,0 +1,72 @@
+.relevant-docs {
+	display:none;
+}
+.box a:hover {
+color:red!important;
+}
+.box a:link {
+color:#007FC2!important;
+}
+#viewdoc .doc-intro {
+margin-bottom: 35px!important;
+max-width:335px;
+}
+#___plusone_0 {
+margin-left:6px!important;
+}
+.fb_iframe_widget {
+margin-left: 0px;
+}
+.book_title {
+font-size:13px;
+font-weight:bold;
+width: 845px!important;
+clear:both;
+margin-top:-10px!important;
+padding-left:7px;
+border-radius: 7px 7px;
+}
+
+.doc-preview object,.doc-preview embed {
+height:600px!important;
+width:845px!important;
+}
+#inner #content-widget {
+margin-left: 64%;
+position: absolute;
+margin-top: 3%;
+}
+#viewerPlaceHolder {
+width: 840px!important;
+height: 600px!important;
+margin-left: -10px!important;;
+}
+#viewdoc .box {
+border:none!important;
+}
+.doc-intro {
+margin-top:10px;
+}
+.doc-intro p,.doc-content {
+width: 600px!important;
+margin-top: 15px;
+font-size: 14px;
+text-align: justify;
+color: rgb(129, 114, 114);
+}
+.fb-like {
+margin-top:5px;
+}
+.luanvan_social {
+height: 30px;
+position: absolute;
+width: 195px;
+margin-left: 51.4%;
+margin-top: -25px;
+}
+.box ul li p {
+border-bottom: 1px solid rgb(126, 67, 67);
+}
+.box ul li a {
+font-size:13px!important;
+}

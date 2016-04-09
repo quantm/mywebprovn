@@ -1,0 +1,363 @@
+
+.title-trangcon,.tieu_de_hinh  {
+display:none;
+}
+.contentheading span {
+cursor: pointer;
+color: rgb(0, 0, 0);
+font-size: 19px;
+font-family: 'Tangerine', serif;
+text-shadow: 4px 4px 4px #aaa;
+font-weight: bold;
+}
+.subheading-category {
+text-shadow: 0 1px 1px #FFFFFF, 0 -1px 1px #867B7B, 1px 0 1px #D7AEAE, -1px 0 1px #F7EDED;
+font-size: 25px;
+margin-left: 10px;
+color: rgb(65, 49, 248) !important;
+}
+.main_content {
+position: absolute;
+margin-left: 8%;
+margin-top: 0px;
+}
+.blog {
+margin-top: 65px!important;
+max-width: 95%!important;
+margin-left: -2%;
+}
+.blog h2 {
+background: url("../images/header-left-ct.png") no-repeat scroll right top transparent !important;
+}
+.border-bottom-blog {
+border-bottom: 1px solid #ccc;
+padding-bottom: 10px;
+}
+div.khung_hinh_nho {
+box-shadow: 4px 5px #999999;
+margin-top: 3px;
+}
+div.khung_hinh_blog {
+position: relative;
+float: left;
+margin: 5px 10px 5px 5px;
+-moz-border-bottom-colors: none;
+-moz-border-image: none;
+-moz-border-left-colors: none;
+-moz-border-right-colors: none;
+-moz-border-top-colors: none;
+border: 1px #ccc solid;
+box-shadow: 1px 1px 2px #999999;
+}
+
+.item h4 {
+line-height: 20px!important;
+font-size: 14px;
+font-family: Helvetica,Arial,sans-serif;
+font-weight: 500;
+}
+
+
+.khung_hinh img {
+width: 60px;
+height: 90px;
+}
+
+#fetch_book_process {
+display:none;
+font-size:15px;
+}
+#accordion1 div {
+height:auto!important;
+width: 71.5%!important;
+}
+.left_category {
+position:absolute;
+margin-top:50px;
+display:none;
+margin-left:7%;
+}
+#accordion1 {
+width: 300px;
+margin-left: 10px;
+margin-top: 0px;
+z-index: 900;
+font-size: 16px;
+position: absolute;
+}
+#accordion1 ul {
+width: 102% !important;
+margin-left: 5px;
+}
+#accordion1 h3 {
+padding-bottom: 10px;
+padding-top: 5px;
+padding-left: 15px!important;
+height: 20px;
+display: inline-block;
+}
+.ui-accordion .ui-accordion-content-active {
+max-width: 241px!important;
+margin-left: 0px!important;
+overflow: hidden!important;
+}
+
+.language  {
+	margin-left: 22%;
+}
+#header_doc_category {
+margin-left: 71%;
+}
+.doc_icon_desc {
+width:24px;
+height:24px;
+display:inline-block!important;
+}
+.right_title {
+margin-top: -130px;
+margin-left: 45px;
+font-size: 14px;
+font-weight: bold;
+color: blue;
+max-width: 60px;
+}
+.book_cover {
+box-shadow: 3px 3px 3px 3px;
+width:120px !important;
+height:160px !important; ;
+}
+
+.hight_light {
+background-color:rgb(244, 224, 224)!important;
+}
+.moduletable a {
+cursor:pointer;
+}
+.sachlienquan
+{
+color: #005800;
+display: none;
+height: 520px;
+margin-left: 17px;
+margin-top: -7px;
+overflow: auto;
+width: 93%;
+}
+
+.tabt{
+display: inline-block;
+margin-top: -5px;
+cursor:pointer;
+}
+
+.bgtab{
+background-color:#A51010;
+width: 93%;
+margin-left: 20px;
+height: 25px;
+font-size:17px;
+border-radius: 8px;
+}
+#tabs2 {
+margin-left: 34px;
+color: white;
+}
+.sachcungtacgia {
+color: #005800;    
+height: 520px;
+margin-left: 17px;
+margin-top: -7px;
+overflow: auto;
+width: 93%;
+}
+
+.tabt:hover{
+color: #ff8300;
+}
+
+.tabtac {
+padding-left: 37px;
+color: #fff;
+z-index: -1 !important;
+margin-left: -20px;
+}  
+.them {
+margin-left: 1%;
+width: 62%;
+margin-top: -5%;
+}
+.pdf_book_title {
+margin-left: 3%!important;
+top: -115px!important;
+position: absolute !important;
+z-index: 10000;
+height:35px;
+max-width: 425px;
+}
+.social_link div{
+margin-left:10px !important;
+}
+#text_choose_background {
+top: 110px;
+position: absolute;
+width: 200px;
+margin-left: -140px;
+}
+.btn_download {
+margin-left: 15%!important;
+height: 30px!important;
+width: 70px!important;
+text-shadow: 0 0.032em 0 #611C1C, 0px 0.15em 0.11em rgba(0,0,0,0.15), 0px 0.25em 0.021em rgba(0,0,0,0.1), 0px 0.32em 0.32em rgba(0,0,0,0.1);
+top: 3px!important;
+position: absolute!important;
+z-index:1000;
+}
+.btn-add-book {
+text-shadow: 0 0.032em 0 #611C1C, 0px 0.15em 0.11em rgba(0,0,0,0.15), 0px 0.25em 0.021em rgba(0,0,0,0.1), 0px 0.32em 0.32em rgba(0,0,0,0.1);
+top: 3px!important;
+margin-left: 35.5%!important;
+height: 30px!important;
+width: 230px!important;
+position: absolute!important;
+z-index:1000;
+}
+.btn_download-mobile {
+margin-left: 1%!important;
+width: 60px!important;
+margin-top:-5px;
+}
+
+#user_choose_bgcolor{
+top: -100px;
+margin-left: 30%;
+height: 35px;
+position:absolute;
+display:block;
+width: 56px;
+}
+#___plusone_0 {
+margin-top: -11%!important;
+margin-left: 60%!important;
+}
+body{
+overflow-x: hidden;
+}
+.fb-share-button {
+margin-top:6px;
+}
+#reading_fb_comment{
+margin-left: 3%;
+margin-top: 1%;
+}
+.reading_player {
+margin-left:3%;
+}
+.fb-like {
+margin-top:5px;
+}
+
+.mo_ta_tai_lieu {
+
+font-size: 13px;
+line-height: 15px;
+max-width: 320px;
+text-align: justify;
+margin-left:2.5%;
+font-weight: 500;
+color: rgb(42, 33, 33);
+}
+
+.downloading {
+font-size: 15px;
+color: red;
+margin-top:5px;
+margin-left: 15px;
+}
+.book_user_comment {
+margin-left:70px;
+}
+.comment_content {
+margin-left: 10px;
+display: inline-block;
+text-align: justify;
+width: 55%;
+}
+#btn_comment{
+margin-top: 276px;
+margin-left: 50%;
+z-index: 10000;
+display: inline-block;
+position: absolute;
+}
+.book_comment {
+width: 600px;
+margin-left: 53%;
+height: 85px;
+resize: none;
+overflow-x: scroll;
+margin-top: -108px;
+position: static;
+}
+.social_like_mobile {
+height: 20px!important;
+width: 165px!important;
+margin-left: 52%!important;
+}
+.social_link {
+height: 30px; 
+bottom: 558px; 
+float: left;
+padding: 0 0 3px 0;
+position: absolute;
+left: 0;
+z-index: 10;
+width: 175px;
+margin-left: 88%;
+}
+.ads_header_wrapper {
+margin-top: -100px !important;
+}
+.item-page {
+top:65px;
+display: block;
+position: absolute;
+width: 100%;
+}
+#book_facebook_fan_page {
+position: fixed;
+margin-left: 77%;
+margin-top: 22.5%;
+}
+.ads_wrapper_left {
+position: absolute;
+margin-left: 86%;
+margin-top: 10.5%;
+}
+.viewer {
+position: absolute;
+width: 100%;
+margin-top: -6%;
+margin-left: 60%;
+display: block;
+}
+.viewer img {
+width:80%;
+margin-top: 40px;
+margin-left: 15px;
+}
+.font-effect-putting-green {
+margin-left:2.5%;
+font-size:18px !important;
+margin-top: 25px;
+}
+
+.note {
+cursor: pointer;
+font-size: 20px;
+color: red;
+margin-top: -35px;
+margin-left: 55px;
+}
+.fixed_note {
+margin-top: 50px;
+}

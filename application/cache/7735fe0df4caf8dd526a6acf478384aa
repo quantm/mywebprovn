@@ -1,0 +1,406 @@
+1444708476TS---><meta content="text/html" charset="UTF-8" http-equiv="Content-Type"/>
+<script type="text/javascript" src="/js/mbook.js"></script> 
+<link type="text/css" rel="stylesheet" media="all" href="/css/chat.css" /> 
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Rancho&effect=outline">
+<link  rel="stylesheet" type="text/css" href="/css/ebook.css"/>
+<style>
+.ebook_thumbs {
+width:282px;
+height:106px;
+}
+#ebook_wrapper_table {
+margin-top:40px!important;
+}
+.adsense_header_ads {
+width: 728px;
+height: 90px;
+position: absolute;
+margin-left: 20%;
+margin-top: -90px;
+}
+
+</style>
+
+<!--start ads-->
+<div class="adsense_header_ads">
+</div>
+<!--end add -->
+
+<table id="ebook_wrapper_table">					  			
+<!--
+<ul class="breadcrumb">
+<li class="active">
+<a class="font-effect-outline" href="/ebook/">Tất cả Mbook <a/>
+<span class="ebook_count">(<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: count_all_ebook</p>
+<p>Filename: mbook/index.php</p>
+<p>Line Number: 34</p>
+
+</div>)</span>
+</li>
+<span class="divider">/</span>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: cate_name_top</p>
+<p>Filename: mbook/index.php</p>
+<p>Line Number: 37</p>
+
+</div>	
+<li class="header_pagination"><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: pagination</p>
+<p>Filename: mbook/index.php</p>
+<p>Line Number: 41</p>
+
+</div></li>
+</ul>
+-->
+<body>
+<td style="cursor: pointer"  align="center" valign="top" width="16.666666666667%">
+
+<a href='/mbook/ctdlgt'>
+<div class="ebook_div_item" data-toggle="tooltip" data-placement="top" title="Click để mở Mbook">                        
+<img class="ebook_thumbs" src="/images/video/ctdlgt.png" alt="Cấu trúc dữ liệu và giải thuật">
+<div class="div_clear_both"></div>
+<!--<span>Cấu trúc dữ liệu và giải thuật</span>-->
+</div>
+</a>
+</td>
+<td style="cursor: pointer"  align="center" valign="top" width="16.666666666667%">
+
+<a href='/mbook/pttkpm/'>
+<div class="ebook_div_item" data-toggle="tooltip" data-placement="top" title="Click để mở Mbook">                        
+<img class="ebook_thumbs" src="/images/video/pttkpmhdt.png" alt="Phân tích thiết kế phần mềm hướng đối tượng">
+<div class="div_clear_both"></div>
+<!--<span>Phân tích thiết kế phần mềm hướng đối tượng</span>-->
+</div>
+</a>
+</td>
+<td style="cursor: pointer"  align="center" valign="top" width="16.666666666667%">
+
+<a href='/mbook/pttkhttt/'>
+<div class="ebook_div_item" data-toggle="tooltip" data-placement="top" title="Click để mở Mbook">                        
+<img class="ebook_thumbs" src="/images/video/pttkhttt.png" alt="Phân tích thiết kế hệ thống thông tin">
+<div class="div_clear_both"></div>
+<!--<span>Phân tích thiết kế hệ thống thông tin</span>-->
+</div>
+</a>
+</td>
+</tr>		
+</table>                    
+
+<div class="modal hide fade" id="ebook_body">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal">×</button> 
+<span id="add_to_my_library">
+   <button type="button" class="btn btn-primary">Thêm vào Thư viện của tôi</button>	
+</span>
+
+<span id="invite_friend_to_read">
+   <button type="button" class="btn btn-primary">Mời bạn</button>
+</span>
+<span id="ebook_title"></span>
+</div>
+<div class="modal-body">
+<iframe id="iframe_ebook" src="" frameborder="0"></iframe>
+</div>
+</div>
+</body>
+
+
+
+<html>
+<head>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50476937-1', 'myweb.pro.vn');
+  ga('send', 'pageview');
+</script>
+
+<title>Mbook</title>
+<meta content="text/html" charset="UTF-8" http-equiv="Content-Type"/>
+<meta name="keywords" content="myweb.pro.vn"/>
+<meta name="description" content="Website học tập và giải trí"/>
+<!--<meta property="og:author" content="100004257586816"/>-->
+<meta property="fb:app_id" content="1375147869435383" />
+<meta property="og:site_name" content="myweb.pro.vn"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<!--<meta name="viewport" content="width=device-width, user-scalable=yes"/>-->
+<meta name='yandex-verification' content='58ae1921a8e56928' />
+<meta name='robots' content='index,follow'>
+
+<link rel="alternate" hreflang="en" href="" />
+<link rel="publisher" href="https://plus.google.com/+MywebProVnsocial">
+<link rel="author" href="https://plus.google.com/+TranKing" />
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"/>
+<link rel="stylesheet" href="/css/font-awesome.css"/>
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Rancho&effect=emboss"/>	
+<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
+<link rel="stylesheet" type="text/css" href="/css/game.css" media="screen"/> 
+<style>	
+.vdict_wrapper {
+	float: left;
+	width:100%;
+	margin-top: 10%;
+}
+
+.navbar .nav>li>.dropdown-menu:before {
+border-bottom: 7px solid #FFF7F7;
+border-bottom-color:none!important;
+}
+.navbar .nav>li>.dropdown-menu:after{
+border-bottom:none!important;
+}
+header {
+position:absolute;
+z-index:10000000;
+}
+header ul {
+list-style:none !important;
+}
+#modal_login {
+z-index:-1;
+}
+#login_body,#modal_login .modal-footer {
+margin-left:15px;
+}
+i{
+color: rgba(73, 182, 90, 0.98);
+text-shadow: 1px 1px 1px #613128;
+font-size:22px;
+font-weight:bold;
+}
+.font-effect-emboss {
+color:#F5252D;
+text-shadow: 1px 1px 1px #0F2C33, 0 -1px 1px #8B4949;
+}
+.header_logo {
+height:48px;
+width:48px;
+margin-top:-14px;
+}
+#modal_login {
+width: 30%!important;
+top: 70%;
+display: block;
+}
+
+#remember_me_wrapper {
+float: right;
+display: inline-block;
+}
+#header_btn_login{
+float: left;
+display: inline-block;
+}
+.modal-header .close {
+margin-top: -8px;
+}
+.alert_register {
+display:none;
+color:red;
+font-size:13px;
+margin-left:15px;
+}
+.a_cate_news {
+font-size:13px!important;
+}
+a:hover, a:link, a:visited {
+color: #3fbf79;
+}
+#ui-id-1 {
+padding-top: 15px;
+}
+.fa-search {
+margin-left:230px;
+margin-top:-36px;
+display:inline-block !important;
+}
+.fa-home {
+margin-top: -20px;
+margin-left: -10px;
+}
+.tagged_text_ex2 {
+height: 25px;
+resize: none;
+margin-top: 8px;
+width:245px;
+overflow:hidden;
+}
+#game_header_search{
+position:absolute;z-index:1000;margin-left:45px;
+}
+.dropdown-menu {
+left:45px;
+}
+.btn-close-dict {
+		cursor:pointer;
+		float:right;
+		margin-right: 5%;
+}
+</style>
+<script type="text/javascript"  src="/js/jquery-2.1.0.min.js"></script>
+<script src="/js/jquery-ui.js"></script>
+<!--<script type="text/javascript"  src="/js/social/google.js" ></script>-->
+<script type="text/javascript"  src="/js/game.js"></script>
+<script type="text/javascript"  src="/js/bootstrap.js"></script>
+<script type="text/javascript"  src="/js/AjaxEngine.js" ></script>
+<script type="text/javascript"  src="/js/login.js"></script> 
+<script type="text/javascript"  src="/js/validate.js" ></script>
+<script type="text/javascript"  src="/js/social/facebook.js" ></script>	   
+<script type="text/javascript" src="/js/toefl.js"></script>
+<script type="text/javascript"  src="/js/header.js"></script>  
+
+</head>
+<body>
+<header id="default_header" class="navbar navbar-fixed-top">
+<div class="navbar-inner navbar-green">
+<div class="nav-collapse account-collapse menu_holder">
+<div class="container-fluid menu_inner">
+<div class="language">
+<a title="Mạng xã hội học tập giải trí" href="http://myweb.pro.vn/" class="brand animated fadeInDown"> 
+<!--<img class="header_logo" src="/images/hat-512.png" /> -->
+<i class="fa fa-home fa-2x"></i>
+</a>
+</div>
+
+<ul class="nav pull-right">
+
+
+<li class="dropdown" class="dropdown" style="width:215px">
+	<a class="item_link" href="http://myweb.pro.vn/getlink/nhaccuatui_audio"><i class="fa fa-laptop fa-1x"></i> Get link mp3 bằng PHP</a> 
+</li>
+		 
+<li class="dropdown" style="width:auto"> 
+	<a class="item_link" role="button" data-toggle="dropdown" data-target="#" id="tai-lieu-hoc-tap" >
+	<i class="fa fa-book fa-fw fa-1x"></i>Tài liệu
+		<ul class="dropdown-menu" role="menu" aria-labelledby="tai-lieu-hoc-tap">
+			<li><a class="a_cate_news" href='/luanvan/index/'>Luận văn</a></li>
+			<li><a class="a_cate_news" href='/book/index/'>Ebook</a></li>
+			<li><a class="a_cate_news" href='/mbook/'>Video</a></li>
+		</ul>
+	</a> 
+</li>
+
+<li class="dropdown" style="width:auto" > 
+	<a role="button" class="item_link" data-toggle="dropdown" data-target="#" id="giai_tri" >
+		<i class="fa fa-gamepad fa-1x"></i></i> Giải trí
+		<ul class="dropdown-menu" role="menu" aria-labelledby="giai_tri">
+			<li><a class="a_cate_news" href="/video/"><i class="fa fa-film fa-2x"></i> Xem phim</a></li>
+			<li><a class="a_cate_news" href="http://www.myweb.pro.vn/nhaccuatui/baihat/Ve-Dau-Mai-Toc-Nguoi-Thuong-Gala-Nhac-Viet-2-Cam-Ly/ZW68UZAU.html/zing"><i class="fa fa-music fa-2x"></i> Nghe nhạc</a></li>
+			<li><a class="a_cate_news" href="/game/"><i class="fa fa-gamepad fa-2x"></i> Chơi game</a></li>
+		</ul>
+	</a> 
+</li>
+
+	
+<li class="dropdown" style="width:auto">						
+	<a class="item_link" data-toggle="modal" href="#modal_login" id="show_login">
+	<i class="fa fa-sign-in fa-1x"></i> Đăng nhập
+	</a>
+</li>
+
+<li class="dropdown">
+	<a class="item_link" href="#modal_register" data-toggle="modal">
+	<i class="fa fa-check-square-o fa-1x"></i> Đăng ký
+	</a>
+</li>					
+
+<li><!--Mua bán--> </li>
+</ul> 
+</div>                
+</div>
+</header>
+
+<!-- register -->
+<div class="modal hide fade" id="modal_register">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal">×</button>
+</div>
+<div class="modal-body">
+
+</div>       
+</div>
+<!-- end register -->	
+
+<div class="modal hide fade" id="login_process" style="margin-top:5%">
+<!--<img src="/images/spinningDisc.gif"/>-->
+<img alt="Ajax Loading" src="/public/images/ajax_load_green.gif"/>
+<span style="margin-left:5px">Đang đăng nhập vào hệ thống...</span>
+</div>
+
+<!-- login -->
+<form id="frmlogin" method="post" name="frmlogin">
+<div class="modal hide fade" id="modal_login">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal">×</button>
+<h4>Đăng nhập</h4>
+<div class="clr"></div>
+<span class="alert_register">Vui lòng đăng nhập để làm bài, nếu bạn chưa có tài khoản thì <a href="#" >đăng ký tại đây</a></span>
+</div>
+<div id="login_body" class="modal-body">
+<div class="input-group margin-bottom-sm" id="default_login">
+<span class="input-group-addon"><i class="fa fa-envelope-o fa-fw fa-2x"></i></span>
+<input class="form-control" type='text' id='username' name='username' placeholder="Tên đăng nhập hoặc Email">
+<div class="clr"></div>
+<span id="ERRusername" class="box_erro_area"></span>
+</div>
+<div class="input-group">
+<span class="input-group-addon"><i class="fa fa-key fa-fw fa-2x"></i></span>
+<input class="form-control" type="password" name='password' id='password' placeholder="Mật khẩu">
+<div class="clr"></div>
+<span class="box_erro_area" id="ERRpassword"></span>
+<div class="clr"></div>
+<span class="box_erro_area" id="ERRlogin"></span>
+</div>	
+</div>
+<div class="modal-footer">
+<span id="remember_me_wrapper">
+<!--Nhớ tôi--> <input id="remember_me" type="hidden" value="0">
+</span>
+<div id="header_btn_login">
+<button href="#" class="btn btn-facebook" id="header_face_book_login" data-dismiss="modal">Facebook</button>       
+<!--
+<button href="#" class="btn btn-twitter" id="header_face_book_login" data-dismiss="modal">Twitter</button>
+<button href="#" class="g-signin btn btn-google" 
+data-dismiss="modal" 
+data-scope="https://www.googleapis.com/auth/plus.login"
+data-requestvisibleactions="http://schemas.google.com/AddActivity"
+data-clientId="940667944641.apps.googleusercontent.com"
+data-accesstype="offline"
+data-callback="onSignInCallback"
+data-theme="dark"
+data-cookiepolicy="single_host_origin">Google+</button>        
+-->
+<button data-redirect="" id="btn_login" type="button" class="btn btn-primary">Đăng nhập</button>
+</div>
+</div>
+</div>
+</form>
+<!-- end login -->
+
+<input type="hidden" id="is_logged" value="0"/>
+<form id="toefl_overview" method="post" action="/toefl/do_exam/">
+<input type="hidden" id="id" name="id"/>
+<input type="hidden" id="type" name="type"/>
+<input type="hidden" id="lib_book_id" name="lib_book_id"/>
+<input type="hidden" name="csrf_test_name" id="csrf_test_name" value="772273ce4b104487f0937035b0e8b1a0"/>
+</form>
+
+</body>
+</html>

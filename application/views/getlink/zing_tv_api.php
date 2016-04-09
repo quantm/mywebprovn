@@ -1,0 +1,1 @@
+http://api.tv.zing.vn/2.0/media/info?api_key=d04210a70026ad9323076716781c223f&media_id=IWZBUFWO	

@@ -1,0 +1,197 @@
+.html5_play_list {
+
+}
+#twitter-widget-0 {
+position: fixed;
+margin-top: 36px;
+}
+.fb-comments {
+position:fixed;
+margin-top:35%;
+margin-left:8%;
+}
+#___plus_0{
+position: fixed;
+margin-top: -18.3%!important;
+margin-left: 0.5%!important;
+z-index: 10000000;
+}
+.fb-like {
+position: fixed;
+margin-top: -18.3%;
+margin-left: -9.5%;
+z-index: 10000;
+}
+
+.social_shared {
+position: absolute;
+margin-top: 21%;
+margin-left: 16%;
+}
+
+.music_ads_left {
+width: 120px;
+height: 400px;
+position: fixed;
+margin-top:3%;
+}
+.text_aqua  {
+	color:#0099FF;
+}
+
+#addVdictOnYourWeb{
+		position: absolute;
+		width: 65%;
+		border: 1px solid black;
+		padding: 2px;
+		background-color: lightyellow;
+		display: none;
+		z-index: 100;
+		left: 0%;
+		top: 15%;
+		overflow-x:hidden;
+		scrollTop:175;
+}
+
+#myIframe {
+	width: 100%; 
+	height: 450px; 
+	border: 0px;
+	frameborder:0;
+}
+.music_title .music_lyric span {
+	padding-left:5px;
+}
+
+.hightlight_word
+{
+	background-color:gray;
+    font-weight:bold;
+    color:white;
+}
+
+.music_header_text {
+	display:block;
+	width:100%;
+	height:100%;
+	font-family: 'Tahoma';
+	font-size: 20px;
+	margin-top:-35px;
+}
+
+.html5_video {
+	height: 28px; 
+	width: 66%;
+	margin-left:15px;
+	position: relative;
+	z-index: 1000000;	
+}
+
+.html5_video_lyric {
+	height: 28px; 
+	width: 66%;
+	margin-left:15px;
+	display:none;
+}
+
+
+.dictionary_music {
+	display: inline-block;
+}
+
+.learn_eng {
+	color: #FF0000;
+    display: none;
+    margin-left: 15px;
+    padding-bottom:20px;
+    cursor: pointer;
+    padding-top:15px;
+}
+
+.display_block {
+	display:block;
+}
+
+.display_inline_block {
+    display: inline-block;    
+}
+
+#dict_off {
+	cursor:pointer;
+}
+
+#dict_on {
+	cursor:pointer;
+}
+
+
+.music_sheet {
+	display:block;
+	float:right;
+	height:auto;
+	color:#1BC05D;
+	background-color:#FFFAE6;
+	margin-top:5px;
+	border-radius:25px;
+}
+
+.music_title {
+	display:block;
+}
+.music_key {
+	display: block;
+    text-align: justify;
+    width: 400px;
+	margin-right: 15px;
+	margin-left:15px;
+	font-size:17px;
+	font-family:Tahoma;
+	padding-top:5px;
+	padding-bottom:15px;
+}
+
+.music_iframe_wrapper {
+display: block;
+height: 100%;
+margin-top: -8%;
+position: fixed;
+width: 60%;
+margin-left: 9%;
+}
+
+.music_sheet_search {
+	display:inline-block;
+	margin-left:65%;
+	margin-top:2%;
+
+}
+
+.music_title p {
+	font-weight:bold;
+	margin-left:15px;
+}
+
+.music_title .music_lyric {
+	display:none;
+	color:#0099FF;
+}
+
+input {
+	height:23px;
+	width:300px;
+}
+
+.music_title a {
+	cursor:pointer;
+	margin-left:15px;
+}
+
+#txt_music_sheet-search {
+	margin-left: 45px;
+	display: inline-block;
+	position: relative;
+	margin-top: 15px;
+}
+.adsense_wrapper {	
+}
+}

@@ -1,0 +1,54 @@
+/*news list*/
+#News #newsItem {margin:0px;}
+#News #newsItem #header{background:#F5F5F5 url(images/rbgheaderpoll.gif) repeat-x;padding:0px;margin:0px;height:26px;vertical-align:middle;border-bottom:solid 1px #BDBDBD;}
+#News #newsItem #header h1{color:#FB0311;margin:0px;}
+#News #newsItem #header h1 a{font-size:13px;text-decoration:none;}
+#News #newsItem #header h1 a:hover{color:#053B7C;}
+#News #newsItem #header .pageTitle{text-align:left;display:inline;float:left;padding-top:4px;padding-left:6px;text-transform:uppercase;}
+#News #newsItem #header a.pageTitle{min-width:200px;color:#0e9227;font-size:12px;font-weight:bold;}
+#News #newsItem #header #pagerss{background:transparent url(images/feed-icon-12x12.gif) 90% 50% no-repeat;width:47px;height:27px;z-index:1;float:right;display:inline;margin-right:3px;}
+#News #newsItem #header #pagerss .pagerss{color:#F77109;font-size:12px;font-weight:bold;vertical-align:middle;display:inline-block;height:23px; padding-top:4px;}
+#News #newsItem #headerItem {padding:1px 3px 2px 5px;margin:2px;}
+#News #newsItem #headerItem .newsTitle a{color:#0e9227;font-size:12px;font-weight:bold;text-decoration:none;}
+#News #newsItem #headerItem .newsTitle a:hover{color:#044611;}
+#News #newsItem #headerItem .newsImage{border:solid 1px #0e9227;float:left;margin:3px 9px 3px 3px;max-width:210px;}
+#News #newsItem #headerItem .newsDate {color:#5F5F5F;font-size:10px;}
+#News #newsItem #headerItem .newsHeader{color:#000;font-size:13px;line-height:1.5;text-align:justify;padding-right:4px;}
+#News #newsItem #headerItem .newsHeader img{border:solid 1px #0e9227;margin:3px;width:210px;max-width:210px;max-height:170px;float:left;}
+#News #newsItem #headerItem .newsHeader p{font-size:13px;text-decoration:none;text-align:justify;margin:0px;}
+#News #newsItem #headerItem .newsHeader br{display:none;}
+#News #newsItem #headerItem .newsHeader a{color:#053B7C;font-size:12px;font-weight:normal;text-decoration:underline;}
+#News #newsItem #headerItem .newsHeader a:hover{color:#DD0000;}
+#News #newsItem #headerItem .newsMore {color:#C80104;font-size:11px;float:right;margin-top:-8px;display:none;}
+#News #newsItem #headerItem .newsMore a{text-decoration:none;}
+#News #newsItem #headerItem .newsMore a:hover{color:#053B7C;}
+#News #newsItem #listItem {padding:1px 3px 2px 5px;margin:7px 2px 2px 2px;border-top:solid 1px #E8E8E8;display:block;}
+#News #newsItem #listItem .newsTitle{color:#0e9227;font-size:12px;font-weight:bold;}
+#News #newsItem #listItem .newsTitle a{text-decoration:none;}
+#News #newsItem #listItem .newsTitle a:hover{color:#044611;}
+#News #newsItem #listItem .newsImage{border:solid 1px #0e9227;float:left;margin:3px 9px 3px 3px;max-width:140px;}
+#News #newsItem #listItem .newsDate {color:#5F5F5F;font-size:10px;}
+#News #newsItem #listItem .newsHeader{color:#000;font-size:13px;line-height:1.5;text-align:justify;padding-right:4px;}
+#News #newsItem #listItem .newsHeader img{border:solid 1px #0e9227;margin:3px;max-width:140px;max-height:140px;float:left;}
+#News #newsItem #listItem .newsHeader p{color:#000;font-size:13px;line-height:1.5;text-align:justify;margin:0px;}
+#News #newsItem #listItem .newsHeader a{color:#053B7C;font-size:12px;font-weight:bold;text-decoration:underline;}
+#News #newsItem #listItem .newsHeader a:hover{color:#DD0000;}
+#News #newsItem #listItem .newsMore {color:#C80104;font-size:11px;float:right;margin-top:-8px;z-index:100; visibility:hidden;}
+#News #newsItem #listItem .newsMore a{text-decoration:none;}
+#News #newsItem #listItem .newsMore a:hover{color:#053B7C;}
+/*news other list*/
+#News #newsotherlist {margin:0px;}
+#News #newsotherlist #header{background:#F5F5F5 url(images/rbgheaderpoll.gif) repeat-x;margin:0px;padding:0px;height:26px;border-bottom:solid 1px #BDBDBD;}
+#News #newsotherlist #header .HeaderItem{text-align:left;float:left;padding:4px 0px 0px 6px;}
+#News #newsotherlist #header a.HeaderItem{color:#0e9227;font-size:13px;font-weight:bold;}
+#News #newsotherlist ul {list-style:none;padding:7px;margin:0px 0px 0px 10px;}
+#News #newsotherlist ul li{padding:3px 0px 3px 12px;margin:0px;background:url(images/icon-square-blue-1.gif) 0% 45% no-repeat;}
+#News #newsotherlist ul li a{font-size:12px;line-height:1.4;color:#000;text-decoration:none;}
+#News #newsotherlist ul li a:hover{color:#0e9227;}
+#News #newsotherlist ul li span{color:#5F5F5F;font-size:11px;}
+
+/*Pager*/
+#Pager{text-align:right;font-size:12px;color:#0e9227;height:20px;background:#f7f7f7 url(images/bg_repeat.gif) repeat-x;padding:5px 5px 5px 5px;margin:1px;border:solid 1px #E8E8E8;}
+#Pager strong{font-size:12px;font-weight:bold;color:#000;padding:3px;}
+#Pager a{font-size:12px;color:#0e9227;padding:3px;}
+#Pager a:hover{color:#da251c;text-decoration:underline;padding:3px;}

@@ -1,0 +1,144 @@
+* {
+	margin: 0px; padding: 0px;
+}
+body {
+	background: url("images/noise.jpg"); line-height: 24px; font-family: arial,sans-serif; font-size: 14px; font-weight: 500;
+}
+.clear {
+	clear: both;
+}
+#page-wrap {
+	margin: 40px auto 60px; width: 800px;
+}
+#pic {
+	margin: -30px 0px 0px; float: right;
+}
+h1 {
+	margin: 0px 0px 16px; padding: 0px 0px 16px; letter-spacing: -2px; font-size: 42px; font-weight: bold; border-bottom-color: rgb(153, 153, 153); border-bottom-width: 1px; border-bottom-style: solid;
+}
+img {
+	border: 0px currentColor;
+}
+h2 {
+	margin: 0px 0px 6px; font-size: 20px; position: relative;
+}
+h2 span {
+	right: 0px; bottom: 0px; color: rgb(153, 153, 153); font-style: italic; font-weight: normal; position: absolute;
+}
+p {
+	margin: 0px;
+}
+a {
+	color: rgb(0, 0, 0); text-decoration: none;
+}
+a:hover {
+	color: rgb(153, 153, 153); text-decoration: underline;
+}
+ul {
+	margin: 0px 0px 32px 17px;
+}
+#objective {
+	width: 500px; float: left;
+}
+#objective p {
+	color: rgb(102, 102, 102); font-style: italic;
+}
+dt {
+	padding: 0px 26px 0px 0px; width: 150px; height: 100px; text-align: right; font-size: 18px; font-style: italic; font-weight: bold; border-right-color: rgb(153, 153, 153); border-right-width: 1px; border-right-style: solid; float: left;
+}
+dd {
+	width: 600px; float: right;
+}
+dd.clear {
+	margin: 0px; height: 15px; float: none;
+}
+.quote {
+	margin: 10px 40px; padding: 10px; border: 1px dashed gray; color: rgb(51, 51, 51); background-color: rgb(239, 239, 239);
+}
+.quote a {
+	color: rgb(51, 153, 255); font-style: italic; text-decoration: underline;
+}
+hr {
+	margin: 5px 0px; border: 1px solid rgb(204, 204, 204); line-height: 1px;
+}
+span.step_title {
+	font-style: italic; font-weight: bold;
+}
+table#options {
+	border-top-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-top-width: 1px; border-left-width: 1px; border-top-style: solid; border-left-style: solid;
+}
+table#options th {
+	background: rgb(216, 234, 153);
+}
+table#options td {
+	padding: 5px; border-right-color: rgb(204, 204, 204); border-bottom-color: rgb(204, 204, 204); border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid;
+}
+table#options th {
+	padding: 5px; border-right-color: rgb(204, 204, 204); border-bottom-color: rgb(204, 204, 204); border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid;
+}
+table#options .quote {
+	margin: 10px;
+}
+.hide {
+	display: none;
+}
+.col1 {
+	width: 510px; float: left;
+}
+.col2 {
+	background: rgb(221, 221, 221); padding: 5px; border: 1px solid rgb(204, 204, 204); width: 268px; height: 460px; overflow: hidden; margin-left: 520px; position: relative;
+}
+.col2 h2 {
+	padding: 5px; left: 0px; top: 0px; width: 100%; margin-bottom: 10px; display: block; position: absolute;
+}
+.col2 p.title {
+	height: 30px;
+}
+.col2 p.note {
+	color: rgb(255, 51, 0); font-size: 9px; font-style: italic;
+}
+.col2 .message {
+	background: rgb(255, 255, 255); width: 268px; height: 220px; margin-bottom: 10px; border-bottom-color: rgb(238, 238, 238); border-bottom-width: 1px; border-bottom-style: dotted; overflow-y: auto;
+}
+.col2 .message p {
+	padding: 5px; border-bottom-color: rgb(221, 221, 221); border-bottom-width: 2px; border-bottom-style: solid;
+}
+.col2 .message p a {
+	text-decoration: underline;
+}
+.col2 .message span {
+	font-weight: bold; margin-bottom: 5px; display: block;
+}
+.col2 .message span.date {
+	color: rgb(51, 51, 51); font-style: italic; display: inline;
+}
+.col2 .form {
+	height: 100px; min-height: 100px;
+}
+.col2 label {
+	margin: 0px; padding: 0px; display: block;
+}
+.col2 label span {
+	width: 100px; float: left; display: block;
+}
+.col2 label span.r {
+	width: auto; color: red; float: none; display: inline;
+}
+.col2 label input {
+	width: 150px;
+}
+.col2 label textarea {
+	width: 150px;
+}
+.col2 label textarea {
+	height: 60px;
+}
+.col2 .btn {
+	width: auto;
+}
+* html .col2 label {
+	clear: both;
+}
+.license {
+	background: rgb(239, 239, 239); padding: 10px; border: 1px dashed gray;
+}

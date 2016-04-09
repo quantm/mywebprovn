@@ -1,0 +1,615 @@
+.main_frame{
+width: 875px;
+margin-left: -275px;
+}
+.side_bar {
+margin-left:5px;
+width: 375px;
+}
+.nav_footer{
+
+}
+.outer {
+margin-left: 180px;
+}
+
+#unityPlayer {
+display: inline-block;
+margin-left: 25px;
+width: 87%;
+}
+
+#unityPlayer embed {
+height:575px;
+width: 100%;
+}
+.description {
+display:inline-block;
+margin-top:5px;
+color:rgb(173, 173, 173);
+}
+textarea,input[type="text"],input[type="password"],input[type="datetime"],input[type="datetime-local"],input[type="date"],input[type="month"],input[type="time"],input[type="week"],input[type="number"],input[type="email"],input[type="url"],input[type="search"],input[type="tel"],input[type="color"],.uneditable-input{background-color:#ffffff;border:1px solid #cccccc;-webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.075);-moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.075);box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.075);-webkit-transition:border linear .2s, box-shadow linear .2s;-moz-transition:border linear .2s, box-shadow linear .2s;-o-transition:border linear .2s, box-shadow linear .2s;transition:border linear .2s, box-shadow linear .2s;}textarea:focus,input[type="text"]:focus,input[type="password"]:focus,input[type="datetime"]:focus,input[type="datetime-local"]:focus,input[type="date"]:focus,input[type="month"]:focus,input[type="time"]:focus,input[type="week"]:focus,input[type="number"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="color"]:focus,.uneditable-input:focus{border-color:rgba(82, 168, 236, 0.8);outline:0;outline:thin dotted \9;-webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);-moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);}
+select,textarea,input[type="text"],input[type="password"],input[type="datetime"],input[type="datetime-local"],input[type="date"],input[type="month"],input[type="time"],input[type="week"],input[type="number"],input[type="email"],input[type="url"],input[type="search"],input[type="tel"],input[type="color"],.uneditable-input{display:inline-block;height:25px;padding:0px 0px;margin-bottom:0px;font-size:14px;line-height:20px;color:#555555;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}
+h2 {
+font-size: 20px;
+line-height: 40px;
+}
+
+.display_none {
+display:none;;
+}
+.display_block{
+display:block;
+}
+.z-index-1
+{
+z-index:-1;
+}
+.z-index-2
+{
+z-index:15;
+}
+
+.gsc-search-button {
+background-color: #006dcc;
+border-color: #006dcc;
+border-radius: 5px 5px 5px 5px;
+text-shadow: 0 -1px 0 rgba(1, 2, 3, 0.25);
+cursor:pointer;
+color:white;
+}
+
+.widget .post-body li {
+display:inline-block;
+}
+.carousel-indicators {
+bottom: -40px;
+left:425px;
+}
+
+.game_div_item {
+border-radius: 5px;
+height: 115px;
+} 
+.game_thumbs {
+width: 85px;
+height: 80px;
+margin-top: 10px;
+-moz-border-bottom-colors: none;
+-moz-border-left-colors: none;
+-moz-border-right-colors: none;
+-moz-border-top-colors: none;
+border-bottom-color: -moz-use-text-color;
+border-bottom-left-radius: 8px;
+border-bottom-right-radius: 8px;
+border-bottom-style: none;
+border-bottom-width: medium;
+border-image-outset: 0 0 0 0;
+border-image-repeat: stretch stretch;
+border-image-slice: 100% 100% 100% 100%;
+border-image-source: none;
+border-image-width: 1 1 1 1;
+border-left-color-ltr-source: physical;
+border-left-color-rtl-source: physical;
+border-left-color-value: -moz-use-text-color;
+border-left-style-ltr-source: physical;
+border-left-style-rtl-source: physical;
+border-left-style-value: none;
+border-left-width-ltr-source: physical;
+border-left-width-rtl-source: physical;
+border-left-width-value: medium;
+border-right-color-ltr-source: physical;
+border-right-color-rtl-source: physical;
+border-right-color-value: -moz-use-text-color;
+border-right-style-ltr-source: physical;
+border-right-style-rtl-source: physical;
+border-right-style-value: none;
+border-right-width-ltr-source: physical;
+border-right-width-rtl-source: physical;
+border-right-width-value: medium;
+border-top-color: -moz-use-text-color;
+border-top-left-radius: 8px;
+border-top-right-radius: 8px;
+border-top-style: none;
+border-top-width: medium;
+}
+
+.header_blogspot {
+width:78%;
+margin-left:198px;
+}
+
+.ads_bottom {
+width:100%;
+height:100%;
+display:block;
+position:relative;
+padding-top:25px;
+}
+
+.ads_right {
+display:block;
+position:fixed;
+width:auto;
+height:auto;
+}
+
+.ads_top {
+display:block;
+position:fixed;
+width:auto;
+height:auto;
+}
+
+.header_top{
+margin-left:-27px;
+margin-top:-9px;
+}
+
+.tabs-inner .widget li a {
+display: block;
+margin: 0;
+padding: .6em 1.5em;
+font: normal bold 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #ffffff;
+border-top: 0px solid #222222;
+border-bottom: 0px solid #222222;
+border-left: 0px solid #222222;
+height: 45px;
+line-height: 30px;
+}
+
+.ads_left {
+position:fixed;
+width:auto;
+height:auto;
+display:block;
+}
+
+[class*='key-'] {
+background: url(http://img.y8.com/assets/icons/keyboard/keys-sprite.png) no-repeat top left;
+height: 22px;
+width: 23px;
+}
+
+.key-space {
+background-position: 0 -1966px;
+width: 100px;
+height: 22px;
+}
+
+.key-c {
+background-position: 0 -882px;
+}
+
+.key-p {
+background-position: 0 -1756px;
+}
+
+.key-m {
+background-position: 0 -1428px;
+}
+
+.game_key {
+display:block;
+margin-left:-20px;
+}
+
+.key-wasd {
+background-position: -120px -378px;
+width: 32px;
+}
+.keyboard-key {
+margin-bottom: 0;
+margin-left: 1px;
+margin-right: 1px;
+margin-top: 0;
+vertical-align: middle;
+}
+.key-mouse {
+margin-bottom: 0;
+margin-left: 0;
+margin-right: 0;
+margin-top: 0;
+}
+.key-mouse1 {
+margin-bottom: 0;
+margin-left: 0;
+margin-right: 0;
+margin-top: 0;
+}
+.key-mouse2 {
+margin-bottom: 0;
+margin-left: 0;
+margin-right: 0;
+margin-top: 0;
+}
+.key-mouse3 {
+margin-bottom: 0;
+margin-left: 0;
+margin-right: 0;
+margin-top: 0;
+}
+.key-1 {
+background-position: 0 0;
+}
+.key-2 {
+background-position: 0 -42px;
+}
+.key-3 {
+background-position: 0 -84px;
+}
+.key-32 {
+background-position: 0 -126px;
+}
+.key-4 {
+background-position: 0 -168px;
+}
+.key-5 {
+background-position: 0 -210px;
+}
+.key-59 {
+background-position: 0 -252px;
+}
+.key-6 {
+background-position: 0 -294px;
+}
+.key-60 {
+background-position: 0 -336px;
+}
+.key-62 {
+background-position: 0 -378px;
+}
+.key-7 {
+background-position: 0 -420px;
+}
+.key-8 {
+background-position: 0 -462px;
+}
+.key-9 {
+background-position: 0 -504px;
+}
+.key-92 {
+background-position: 0 -546px;
+}
+.key-a {
+background-position: 0 -588px;
+}
+.key-ad {
+background-position: 0 -630px;
+}
+.key-al {
+background-position: 0 -672px;
+}
+.key-ar {
+background-position: 0 -714px;
+}
+.key-arrow {
+background-position: 0 -756px;
+height: 22px;
+width: 32px;
+margin-left:-5px;
+}
+.key-au {
+background-position: 0 -798px;
+}
+.key-b {
+background-position: 0 -840px;
+}
+.key-c {
+background-position: 0 -882px;
+}
+.key-ctrl {
+background-position: 0 -924px;
+height: 22px;
+width: 50px;
+}
+.key-d {
+background-position: 0 -966px;
+}
+.key-e {
+background-position: 0 -1008px;
+}
+.key-ent {
+background-position: 0 -1050px;
+height: 22px;
+width: 19px;
+}
+.key-esc {
+background-position: 0 -1092px;
+height: 22px;
+width: 45px;
+}
+.key-f {
+background-position: 0 -1134px;
+}
+.key-g {
+background-position: 0 -1176px;
+}
+.key-h {
+background-position: 0 -1218px;
+}
+.key-i {
+background-position: 0 -1260px;
+}
+.key-j {
+background-position: 0 -1302px;
+}
+.key-k {
+background-position: 0 -1344px;
+}
+.key-l {
+background-position: 0 -1386px;
+}
+.key-m {
+background-position: 0 -1428px;
+}
+.key-mouse {
+background-position: 0 -1470px;
+height: 20px;
+width: 20px;
+}
+.key-mouse1 {
+background-position: 0 -1550px;
+height: 20px;
+width: 20px;
+}
+.key-mouse2 {
+background-position: 0 -1510px;
+height: 20px;
+width: 20px;
+}
+.key-mouse3 {
+background-position: 0 -1590px;
+height: 20px;
+width: 20px;
+}
+.key-mouse4 {
+background-position: 0 -1630px;
+height: 22px;
+width: 22px;
+}
+.key-n {
+background-position: 0 -1672px;
+}
+.key-o {
+background-position: 0 -1714px;
+}
+.key-p {
+background-position: 0 -1756px;
+}
+.key-q {
+background-position: 0 -1798px;
+}
+.key-r {
+background-position: 0 -1840px;
+}
+.key-s {
+background-position: 0 -1882px;
+}
+.key-shift {
+background-position: 0 -1924px;
+height: 22px;
+width: 57px;
+}
+.key-space {
+background-position: 0 -1966px;
+height: 22px;
+width: 100px;
+}
+.key-t {
+background-position: -120px 0;
+}
+.key-u {
+background-position: -120px -42px;
+}
+
+.key-w {
+background-position: -120px -126px;
+}
+.key-y {
+background-position: -120px -210px;
+}
+.key-0 {
+background-position: -120px -294px;
+}
+.key-keyboard {
+background-position: -120px -336px;
+height: 18px;
+width: 37px;
+}
+.key-wasd {
+background-position: -120px -378px;
+width: 32px;
+}
+.key-pl1 {
+background-position: -120px -420px;
+width: 61px;
+}
+.key-pl2 {
+background-position: -120px -462px;
+width: 64px;
+}
+
+.key-32 {
+background-position: 0 -96px;
+}
+.key-4 {
+background-position: 0 -128px;
+}
+.key-5 {
+background-position: 0 -160px;
+}
+.key-59 {
+background-position: 0 -192px;
+}
+.key-6 {
+background-position: 0 -224px;
+}
+.key-60 {
+background-position: 0 -256px;
+}
+.key-62 {
+background-position: 0 -288px;
+}
+.key-7 {
+background-position: 0 -320px;
+}
+.key-8 {
+background-position: 0 -352px;
+}
+.key-9 {
+background-position: 0 -384px;
+}
+.key-92 {
+background-position: 0 -416px;
+}
+
+.key-ad {
+background-position: 0 -480px;
+}
+.key-al {
+background-position: 0 -512px;
+}
+.key-ar {
+background-position: 0 -544px;
+}
+
+.key-au {
+background-position: 0 -608px;
+}
+
+.key-ctrl {
+background-position: 0 -704px;
+height: 22px;
+width: 50px;
+}
+
+.key-ent {
+background-position: 0 -800px;
+height: 22px;
+width: 19px;
+}
+.key-esc {
+background-position: 0 -832px;
+height: 22px;
+width: 45px;
+}
+.key-g {
+background-position: 0 -896px;
+}
+.key-h {
+background-position: 0 -928px;
+}
+.key-j {
+background-position: -60px 0;
+}
+.key-k {
+background-position: -60px -32px;
+}
+.key-keyboard {
+background-position: -60px -64px;
+height: 22px;
+width: 45px;
+}
+.key-l {
+background-position: -60px -96px;
+}
+
+.key-mouse {
+background-position: -60px -160px;
+height: 22px;
+width: 22px;
+}
+.key-mouse1 {
+background-position: -60px -190px;
+height: 22px;
+width: 22px;
+}
+.key-mouse2 {
+background-position: -60px -220px;
+height: 22px;
+width: 22px;
+}
+.key-mouse3 {
+background-position: -60px -250px;
+height: 22px;
+width: 22px;
+}
+.key-mouse4 {
+background-position: -60px -280px;
+height: 22px;
+width: 22px;
+}
+.key-n {
+background-position: -60px -312px;
+}
+.key-o {
+background-position: -60px -344px;
+}
+.key-p {
+background-position: -60px -376px;
+}
+
+.key-r {
+background-position: -60px -440px;
+}
+
+.key-t {
+background-position: -60px -568px;
+}
+.key-u {
+background-position: -60px -600px;
+}
+.key-v {
+background-position: -60px -632px;
+}
+.key-wasd {
+background-position: -60px -696px;
+height: 22px;
+width: 32px;
+}
+.key-x {
+background-position: -60px -728px;
+}
+.key-y {
+background-position: -60px -760px;
+}
+.key-z {
+background-position: -60px -792px;
+}
+.key-0 {
+background-position: -60px -824px;
+}
+.key-pl1 {
+background-position: -60px -857px;
+height: 22px;
+width: 61px;
+}
+.key-pl2 {
+background-position: -60px -890px;
+height: 22px;
+width: 64px;
+}
+
+.game_key .key-definition  {
+display: inline-block;
+width: 115px;
+}
+.game_key .key-definition span  {
+display: inline-block;
+position: absolute;
+margin-top: -20px;
+margin-left: 36px;
+}
+
+.Header h1 {
+font: normal bold 40px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #22A222; 
+text-shadow: #2B180D 4px 4px 4px;
+}
+
+.post-outer h3 a {
+color: rgba(236, 25, 127, 0.98);
+text-shadow: #756B69 1px 1px 1px;
+}

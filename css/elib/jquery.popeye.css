@@ -1,0 +1,103 @@
+/*
+ * jquery.popeye.css 2.1
+ *
+ * Mandatory CSS classes for jQuery.popeye
+ *
+ * Copyright (C) 2011 Christoph Schuessler (schreib@herr-schuessler.de)
+ * 
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ */
+.ppy-outer {
+	display:                none;
+}
+.ppy-active .ppy-outer {
+	display:                block;
+}
+.ppy-stage {
+	background-repeat:      no-repeat !important;
+	background-position:    center center !important;
+	position:               relative;
+}
+.ppy-placeholder {
+	position:               relative;
+}
+.ppy-caption, .ppy-captionwrap {
+	overflow:               hidden;
+}
+.ppy-hidden {
+	display:                none !important;
+}
+#ppy2.ppy-active {
+	width:          200px;
+	float:          left;
+	margin:         0 0 10px 0;
+}
+#ppy2 .ppy-outer {
+	padding:        0 46px 0 0;
+}
+#ppy2 .ppy-stagewrap {
+	padding: 0;
+	margin:0 0 0 50px;
+	background-color:    #eed3af;
+}
+#ppy2 .ppy-stage {
+	width:              160px;
+	height:             200px;
+	background-color: #eed3af;
+	cursor:         pointer;
+	background-position: 0 0 !important;
+}
+#ppy2 .ppy-counter {
+	background:         #fff;
+	color:              #333;
+	padding:            0 5px;
+	font-size:          0.8em;
+	position:           absolute;
+	bottom:             0;
+	right:              0;
+	opacity:            0.7;
+	display:none;
+}
+#ppy2 .ppy-nav {
+	width:          40px;
+	position:       absolute;
+	top:            4px;
+	left:          0;
+}
+#ppy2 .nav-wrap {
+	padding:        5px 0;
+}
+#ppy2 .ppy-nav a {
+	display:        block;
+	overflow:       hidden;
+	text-indent:    -900em;
+	height:         42px;
+	margin:        0 0 5px 0;
+	width:          42px;
+}
+#ppy2 .ppy-prev {
+	background:     url(../images/cover_back.png) no-repeat 0 0 scroll transparent;
+}
+#ppy2 .ppy-next {
+	background:     url(../images/cover_front.png) no-repeat 0 0 scroll transparent;
+}
+#ppy2 .ppy-switch-enlarge {
+	background:     url(../images/zoom_in.png) no-repeat 0 0 scroll transparent;
+	height:28px !important;
+	width:28px !important;
+	margin: 5px 0 0 8px !important;
+}
+#ppy2 .ppy-switch-compact {
+	background:     url(../images/zoom_out.png) no-repeat 0 0 scroll transparent;
+	height:28px !important;
+	width:28px !important;
+	margin: 5px 0 0 8px !important;
+}
+#ppy2 .ppy-nav a:hover {
+	cursor:         pointer;
+	background-position: 0 right;
+}

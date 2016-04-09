@@ -1,0 +1,104 @@
+.adv_ants_header {
+position:absolute;
+}
+.adv_bottom {
+position: absolute;
+margin-top: 5%;
+margin-left: 5%
+}
+#___ytsubscribe_0 {
+margin-top: 8px!important;
+margin-left: 45px!important;
+}
+.header_lotus_left {
+width: 96px;
+height: 64px;
+margin-top: 265px;
+position: fixed;
+margin-left: 3%;
+}
+.header_lotus_right {
+width: 96px;
+height: 64px;
+margin-top: 265px;
+position: fixed;
+margin-left: 87%;
+}
+.fb-like-box {
+margin-left: 85%!important;
+margin-top: 25%!important;
+position: fixed!important;
+z-index: 1000000;
+}
+.currentpage {
+color: red;
+font-weight: bold;
+}
+.pad {
+margin-top: 15px;
+}
+.footer_pagination {
+width:100%;
+}
+.footer_pagination a {
+margin-left:5px;
+font-size: 13px;
+}
+.breadcrumb{
+width: 625px;
+margin-top: 20px;
+margin-left: 58px;
+height: 15px;
+}
+.navbar-inner {
+height:18px;
+}
+.pull-right {
+--margin-top: -34px!important;
+}
+a, abbr, acronym, address, applet, article, aside, audio,
+b, blockquote, big, body,
+center, canvas, caption, cite, code, command,
+datalist, dd, del, details, dfn, dl, div, dt, 
+em, embed,
+fieldset, figcaption, figure, font, footer, form, 
+h1, h2, h3, h4, h5, h6, header, hgroup, html,
+i, iframe, img, ins,
+kbd, 
+keygen,
+label, legend, li, 
+meter,
+nav,
+object, ol, output,
+p, pre, progress,
+q, 
+s, samp, section, small, span, source, strike, strong, sub, sup,
+table, tbody, tfoot, thead, th, tr, tdvideo, tt,
+u, ul, 
+var{
+background: transparent;
+border: 0 none;
+font-size: 100%;
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+vertical-align: top; }
+
+ol, ul {
+list-style: none;
+}
+blockquote, q {
+quotes: none;
+}
+table, table td { 
+padding:0;
+border:none;
+border-collapse:collapse;
+}
+img {
+vertical-align:top; 
+}
+embed { 
+vertical-align:top;
+}

@@ -1,0 +1,608 @@
+.btn-download-guide-obj1-doc-edu-vn {
+  margin-top: 29px!important;
+  margin-left: 75px!important;
+}
+.obj2-zbook-vn {
+	margin-top: 43px!important;
+}
+.fb_obj1 {
+	margin-left:-48%!important;
+	margin-top:-55px!important;
+}
+
+.luanvan_social_obj_1 {
+	 margin-top: 87px!important;
+}
+
+.fb-share-button-obj1-zbookvn {
+	  margin-top: -23px!important;
+	  margin-left: 80px!important;
+}
+.fb-share-button-obj2-zbookvn {
+	  margin-top: 2px!important;
+	  margin-left: 80px!important;
+}
+
+.luanvan_social_obj_1_zbook_vn {
+  margin-top: -8px!important;
+  margin-left: 10px!important;
+}
+.luanvan_social_obj_2_zbook_vn {
+  margin-top: -17px!important;
+  margin-left: 6px!important;
+}
+
+.btn-relevant-docs-obj1 {
+	margin-top: 1px!important;
+}
+.btn-relevant-docs-obj2 {
+  margin-top: 0px !important;
+  margin-left: 31px !important;
+}
+
+.btn-download-guide-obj1-zbook-vn {
+	margin-top: 45px!important;
+	margin-left: -0.5%!important;
+}
+
+.body_doc_edu_vn {
+	background:none!important;
+}
+.btn-close-advertisement-obj-2 {
+	margin-left: 45%;
+	margin-top: 43px;
+	height: 27px;
+}
+.btn-download-guide-obj2-luanvannetvn {
+margin-top: 59px!important;
+  margin-left: 7%!important;
+}
+.btn-close-advertisement-obj-2-luanvannetvn {
+	margin-left: 45%;
+	margin-top: 59px;
+	height: 27px;
+}
+
+.middle-adv-z-index {
+	z-index:1000001;
+}
+.btn-close-advertisement {
+z-index:1000;
+position:absolute;
+}
+.btn-close-advertisement-obj-1 {
+  position: absolute;
+  margin-left: 27.5%;
+  margin-top: 45px;
+  display: block;
+  height: 27px;
+}
+
+.adv_ants_header {
+  margin-left: 200px;
+  position: absolute;
+  margin-top:42px;
+  display: block;
+   z-index: 10000;
+}
+
+#viewdoc .doc-preview {
+	border-bottom:none!important;
+}
+#ads_zone16623 .ssvzHeader {
+  background-color: rgb(252, 241, 247);
+}
+
+.adv_micro_bottom {
+	margin-left:30px;
+	position:absolute;
+}
+
+.like-doc {
+  position:absolute;
+  margin-left: 12%;
+  margin-top: -38px;
+  cursor:pointer;
+  z-index: 10000;
+  color:black;
+}
+#site_map_context {
+	margin-top:1%;
+}
+.close {
+	opacity:1!important;
+}
+.relevant-docs-close {
+	cursor:pointer;
+}
+
+.z-index-1 {
+	z-index:-1!important;
+}
+.btn-relevant-docs {
+	margin-left: -46px;
+	margin-top: 35px;
+	position: absolute;
+	height: 27px;
+	width: 145px;
+}
+.in_modal_ads_right {
+	float: left;
+	margin-right: 60px;
+	margin-top: -5px!important;
+}
+
+.in_modal_ads_right * {
+	border:none!important;
+	background-color:white!important;
+}
+
+.btn-download-guide {
+	position: absolute;
+	margin-top: 35px;
+	margin-left: 100px;
+	height: 27px;
+	width: 155px!important;
+}
+
+.btn-download-guide-close-relevant-doc,.btn-download-guide-close-middle-adv {
+	margin-left:231px!;
+}
+
+.book_title_luanvannetvn_obj_2 {
+  margin-left: -20px!important;
+}
+.btn-download-guide-close-middle-adv-obj1 {
+  margin-left: -6px!important;
+}
+
+.display-none {
+	display:none!important;
+}
+
+.close_advertisement {
+	cursor:pointer;
+}
+
+/* start reset advertisement style*/
+.ssvzHeader div {
+	margin-left: 5px!important;;
+}
+.ssvzRight #ssvzone_16552_items .adv_items {
+  margin-left: 10px!important;
+}
+#ads_zone16563 #advZoneSticky{
+left: 1047px!important;
+top: 42px!important;
+}
+#ssvzone_16597_items .ssvzone_16597_items {
+  width: 398px!important;;
+}
+.adv_header_no_border {
+	position: absolute;
+	margin-top: 11%;
+	margin-left: 11%;
+	border: none!important;
+}
+.adv_header_no_border * {
+	border: none!important;
+}
+/* end reset advertisement style*/
+
+
+/*voer*/
+.module-title {
+  margin-left:14%;
+}
+.module-view-content {
+  max-width: 777px;
+  margin-left: 14%;
+  text-align: justify;
+  font-size: 15px;
+}
+.module-view-content .title {
+  font-size: 18px;
+  color: #317EAC;
+}
+.module-view-category,.navbar-header,.right-row,#material-right-side,.author-module-list,.remove {
+	display:none;
+}
+.collection-view-title {
+	margin-left: 14%;
+}
+.collection-view-title h1,.collection-view-title h2 {
+  font-size: 18px!important;
+  color: rgb(0, 178, 255)!important;
+}
+/*end*/
+
+
+/* hightlight advertisement object */
+.blink {
+	background-color: #B8FFC1;
+	height: 110px;
+	width: auto;
+}
+
+.blink_rose {
+	background-color:#FCF1F7;
+	height: 110px;
+	width: auto;
+}
+/*end*/
+
+#inner #content {
+  margin-left: 30px!important;
+}
+
+.advertisement_hightlight {
+  background: bisque!important;
+}
+
+.fanpage_advertisement {
+  position: fixed;
+  margin-top: -560px!important;
+  margin-left: -280px!important;
+}
+.ads_remove_border {
+	border: none!important;
+	background: #FFFFFF!important;
+}
+
+.ads_micro_header {
+  margin-top: -15%;
+  height: 160px;
+  width: 76%;
+  margin-left: -37%
+}
+.ads_micro_header_template_1 {
+  margin-top: 4.8%!important;
+  margin-left: 18.5%!important;
+}
+.ads_micro_top {
+  width: 845px;
+  height: 110px;
+  display:none;
+  margin-top: -8%;
+  margin-left: 0.5%;
+}
+.ads_micro_top_template_2 {
+ margin-left: -1.25%!important;
+}
+.adv_eclick_right_bottom_sticky {
+position: fixed;
+margin-left: 76.95%;
+margin-top: 476px;
+}
+.fb-like-box-left-reading{
+  position: fixed;
+  margin-top: -6px!important;
+  margin-left: -82%!important;
+  display:none;
+} 
+
+.relevant-adv {
+  display:none;
+  position: fixed;
+  margin-left: 51.8%;
+  margin-top: 4.5%;
+  height: 545px;
+  z-index: 10000;
+}
+
+
+.relevant-docs .box ul li a:link {
+		color:white!important;
+}
+.relevant-docs .box{
+		display: inline-block;
+		padding: 15px;
+		border-spacing: 4px;
+		color: hsl(0,0%,85%);
+		background-color: #474747;
+		background-image: url(/pdf/images/texture.png), linear-gradient(hsla(0,0%,32%,.99), hsla(0,0%,27%,.95));
+		box-shadow: inset 1px 0 0 hsla(0,0%,100%,.08), inset 0 1px 1px hsla(0,0%,0%,.15), inset 0 -1px 0 hsla(0,0%,100%,.05), 0 1px 0 hsla(0,0%,0%,.15), 0 1px 1px hsla(0,0%,0%,.1);
+		border: 1px solid hsla(0,0%,0%,.5);
+		box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+		width: 90%;
+		height:575px;
+		overflow-y: scroll;
+		margin-left: -1px;
+}
+
+.relevant-docs {
+		display:none;
+		margin-left: -13%;
+		text-align: justify;
+		width: 22.2%;
+		z-index: 10000000;
+		position: fixed;
+		margin-top:-23px;
+}
+
+.relevant-docs .header {
+margin-top: 6%;!important;
+}
+.fb_iframe_widget_right {
+margin-left: 90%!important;
+}
+
+.ads_title_reading {
+margin-top: 26%!important;
+margin-left: -6%!important;;
+}
+
+.adv_ants_right {
+  border: none!important;
+  position: fixed;
+  margin-left:77.6%;
+  margin-top: 22px!important;
+  display: block;
+  width: 300px;
+  height: 600px;
+}
+
+.eclick_right {
+  margin-left:87.8%!important;
+  margin-top:2px!important;`
+}
+
+.btn-download {
+display: none!important;
+margin-top: 0px;
+position: absolute;
+margin-left: -10px;
+height:27px;
+width: 100px!important;
+z-index: 10000000;
+}
+
+.btn-download-right {
+margin-top: 0px;
+position: absolute;
+margin-left: 54.7%;
+height: 27px;
+width: 107px!important;
+}
+
+#obj1 {
+  margin-left:-27px!important;
+  width:870px!important;
+}
+
+.btn-download-right-obj1-with-header_adv{
+  margin-top: 3.5px!important;
+  margin-left: 53.8%;
+}
+#download_guide .close {
+  margin-top: -55px!important;
+  color: red;
+  font-weight: bold;
+  margin-right: -25px;
+}
+#download_guide {
+  display: block;
+  width: 77%;
+  margin-left: -29%;
+  height: 575px;
+  overflow: hidden;
+  margin-top: -18%;
+}
+
+#download_guide iframe {
+	border-left: 2px solid #9A9A9A;
+	margin-top: -7px;
+	margin-left: -20px;
+}
+
+#book_title_read_online {
+color:blue;
+height: 20px;
+margin-left: 1%;
+font-size: 15px;
+margin-top: 2px;
+font-weight: bold;
+}
+.fullscreen {
+	overflow-y: hidden;
+}
+#modal_read_online{
+margin-top: -21.6%;
+display: block;
+width: 99%;
+margin-left: -49.5%;
+height: 98%;
+overflow-y: hidden;
+}
+.btn-fullscreen {
+position: absolute;
+margin-top: 0px;
+margin-left: 680px;
+display: none;
+height: 26px;
+}
+#modal_read_online .modal-body embed {
+width: 99%!important;
+height: 100%!important;
+}
+.view_my_bookcase {
+float: left;
+position: fixed;
+margin-left: -12%;
+margin-top: -1px;
+}
+.tb_dang_ky {
+float: right;
+position: fixed;
+width: 100%;
+margin-top: -13px;
+margin-left: 15px;
+font-size: 13px;
+}
+#modal_login {
+height:230px;
+margin-left: -15%;
+}
+.modal-header h4 {
+font-size: 15px;
+font-weight: bold;
+}
+.btn-add-book {
+margin-left: -1px;
+position: absolute;
+margin-top: -2.5%;
+}
+.adv_eclick_left {
+position: fixed;
+margin-left:5px;
+margin-top:21px;
+z-index:100000;
+}
+
+.eclick_left{
+  margin-left:5px!important;
+  margin-top: 22px!important;
+}
+.adv_micro_left_reading {
+margin-top:  100px!important;
+margin-left: 4px!important;
+}
+
+.box a:hover {
+color:red!important;
+}
+.box a:link {
+color:#007FC2!important;
+}
+#viewdoc .doc-intro {
+	margin-top:130px!important;
+	margin-bottom: 35px!important;
+	margin-left: 25px!important;
+}
+#___ytsubscribe_0 {
+    position: absolute;
+	margin-top: 0px!important;
+	margin-left: 52%!important;
+}
+#___plusone_0 {
+	margin-left:75%!important;
+}
+
+.fb_iframe_widget {
+	margin-left: -100px;
+	z-index: 100!important;
+	height: 26px!important;
+	margin-bottom: 4px;
+}
+
+.book_title {
+background: none!important;
+color: rgb(15, 193, 216)!important;
+margin-left:-90px;
+font-weight:bold!important;
+width: 800px!important;
+clear:both;
+height:60px!important;
+margin-top:-10px!important;
+font-size:13px;
+border-radius: 7px 7px;
+}
+
+.doc-preview embed {
+	height:600px!important;
+	width: 870px!important;
+	margin-left: 30px;
+}
+.doc-preview object,.doc-preview embed {
+	height:590px;
+	width:870px;
+	margin-left: -50px;
+}
+.doc-obj2-luanvannetvn {
+  width: 815px!important;
+  margin-left: 4px!important;
+}
+#inner {
+margin-left:4%!important;
+margin-top: -15px!important;
+}
+#inner #content-widget {
+margin-left: 64%;
+position: absolute;
+margin-top: 3%;
+}
+.ads_reading{
+	margin-top: 0.5%!important;
+}
+.adv_obj_1_reading {
+margin-top:0.5%!important
+}
+.ads_template_1_reading{
+	margin-top: 1%!important;
+}
+#viewerPlaceHolder {
+width: 845px;
+height: 600px;
+margin-left: -30px;
+}
+#viewdoc .box {
+border:none!important;
+}
+.doc-intro {
+margin-top:10px;
+}
+
+.doc-intro p,.doc-content {
+	width:825px!important;
+	margin-top:5px;
+	font-size: 14px;
+	text-align: justify;
+	color: rgb(129, 114, 114);
+	clear:both;
+	margin-left: -90px;
+}
+
+.fb-like {
+margin-top:5px;
+}
+
+.obj_left {
+	margin-left: 45px!important;
+}
+.obj_left_reading {
+	  margin-top: 7px!important;
+	  margin-left: 135px!important;
+}
+.luan_van_social_right {
+    margin-left: 50%!important;
+	margin-top: 3px!important;
+}
+.luanvan_social {
+  height: 30px;
+  position: absolute;
+  width: 195px;
+  margin-left:44.8%;
+  margin-top: -25px;
+}
+.box ul li p {
+border-bottom: 1px solid rgb(126, 67, 67);
+}
+.box ul li a {
+font-size:13px!important;
+}
+.btn-print {
+text-shadow: 0 0.032em 0 #611C1C, 0px 0.15em 0.11em rgba(0,0,0,0.15), 0px 0.25em 0.021em rgba(0,0,0,0.1), 0px 0.32em 0.32em rgba(0,0,0,0.1);
+margin-top: -2.5%!important;
+margin-left: 67.5%!important;
+height: 30px!important;
+width: 115px!important;
+position: absolute!important;
+z-index:5000;
+display:none!important;
+pointer-events:none;
+}
+
+#download_notification {
+display:none;
+position:absolute;
+}

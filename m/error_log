@@ -1,0 +1,3 @@
+[23-Oct-2015 16:22:46 UTC] PHP Fatal error:  Call to a member function insert() on a non-object in /home/myw4be7e/public_html/m/application/controllers/book.php on line 247
+[02-Nov-2015 10:01:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 74 bytes) in /home/myw4be7e/public_html/m/system/database/drivers/mysql/mysql_result.php on line 152
+[04-Nov-2015 14:22:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 82 bytes) in /home/myw4be7e/public_html/m/system/database/drivers/mysql/mysql_result.php on line 152

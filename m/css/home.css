@@ -1,0 +1,26 @@
+#game_hr {
+margin-top:9%;
+}
+#video_hr {
+margin-top: 32%;
+}
+#h3_game {
+margin-top: -5%;
+}
+#h3_video{
+margin-top: -5%;
+}
+body {
+background-color:rgb(255, 240, 240);
+}
+
+#iframe_lntn body {
+margin-top: -4%;
+}
+#iframe_lntn {
+width:100%;
+height:700px;
+}
+a {
+cursor:pointer;
+}

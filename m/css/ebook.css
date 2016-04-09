@@ -1,0 +1,195 @@
+.tagged_text_ex2 {
+display:none;
+}
+#ebook_wrapper_table {
+	background:url("/images/ebook/giasach.png");
+	height:100%;
+	width: 100%;
+	margin-top:55px;
+}
+
+.ebook_div_item {
+    border-radius: 5px;
+	cursor:pointer;
+	position: relative;
+	z-index:90000;
+
+}
+.ebook_div_item span {
+    font-size: 12px;
+    margin-top: 4px;
+    display: block;
+    font-weight:bold;
+	color:white;
+}
+.ebook_div_item button {
+    display: none;
+    height: 30px;   
+	margin-left: 5px;
+	margin-top: -115px;
+}
+.div_clear_both{
+    clear: both
+}
+
+.ebook_thumbs {
+    width:60px;
+    height:90px;
+    margin-top: 10px;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-bottom-color: -moz-use-text-color;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: -moz-use-text-color;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: none;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: medium;
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: -moz-use-text-color;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: none;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: medium;
+    border-top-color: -moz-use-text-color;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-top-style: medium;
+    border-top-width: medium;
+	box-shadow: 2px 2px 8px #D6D6D6;
+}
+
+.modal {
+    width: 95%;
+    height: 100%;
+    display: block;
+    position: absolute;
+    left: 23%;
+}
+
+.modal span {
+    font-size: 18px;
+    font-weight: bold;
+    text-shadow: 4px 4px 4px #aaa;
+	margin-left: 10px;
+}
+
+.count_by_category {
+    color: red;
+    padding-left: 5px;
+	font-size:14px;
+	box-shadow:0px 0px 0px white;
+}
+
+.breadcrumb {
+    margin-top:-6px;
+    width:475px;
+    margin-left: 40%;
+	background-color:transparent;
+	position:absolute;
+
+}
+
+.breadcrumb li a {
+	font-size:18.5px;
+	color:rgb(255, 255, 255);
+}
+
+.breadcrumb li {
+	text-shadow:0px 0px 0px #ffffff;
+}
+
+.google_adsense_left_wrapper {
+    text-align: center;
+    display: block;
+    float: right;
+    margin-left: 2px;
+    position:fixed;
+    width:120px;
+    height:600px;
+}
+.google_adsense_right_wrapper {
+    text-align: center;
+    display: block;
+    float: right;
+    margin-left: 90%;
+    position:fixed;
+    border-radius:5px;
+    width:120px;
+    height:600px;
+}
+
+#ebook_body {
+	margin-top:-22%;
+	height: 98%;
+}
+
+.modal-body iframe {
+	width:75%;
+	height:90%
+}
+
+#add_to_my_library {
+	float: right;
+    display: inline-block;
+    padding-right: 10px;
+    padding-top: 3px;
+    margin-left: -40px;
+}
+
+#invite_friend_to_read {
+	float: right;
+    display: inline-block;
+    padding-right: 40px;
+    padding-top: 3px;
+}
+.modal-header button {
+	margin-left:15px;
+}
+
+.adsense_while_reading {
+    width: 22%;
+    height: 83%;
+    position: fixed;
+    display: block;
+    margin-left: 72%;
+    margin-top: -39%;     
+}
+
+tbody {
+	margin-top: 20px;
+	display: block;
+}
+
+tr {
+	height: 175px;
+	padding-bottom: 0px;
+	display: table-row;
+}
+
+.ebook_count {
+	color:red;
+	font-size:14px;
+}
+
+.breadcrumb .divider {
+	padding: 0 5px;
+	color: white;
+}

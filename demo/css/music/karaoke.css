@@ -1,0 +1,129 @@
+.lap_trinh_header_search {
+display: block;
+margin-left: 15%;
+margin-top: 5%;
+position: absolute;
+z-index: 1000;
+}
+
+.ads_wrapper {
+display:inline-block;
+margin-left:19%;
+width:728px;
+height:90px;
+margin-top:-30px;
+position:absolute;
+z-index:10000;
+}
+.fb-share-button {
+margin-bottom:5px;
+}
+
+.ads_left {
+position:fixed;
+width:300px;
+height:250px;
+margin-left: 77%;
+margin-top: 225px;
+}
+.social_like {
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(1, #F9F9F9));
+background: -moz-linear-gradient(top, #fff, #F9F9F9);
+border: 1px solid #ccc;
+float: left;
+padding: 0 0 3px 0;
+position: fixed;
+margin-top: 100px;
+left: 0;
+z-index: 10;
+border-radius: 2px 2px 2px 2px;
+box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+width: 95px;
+height:215px;
+margin-left:10px;
+}
+
+#___plusone_0{
+margin-top:2px !important;
+}
+
+.social_like iframe {
+margin-left:10px !important;
+margin-top:10px !important;
+}
+
+#search {
+width: 275px !important;
+height: 30px !important;
+margin-top:0px;
+}
+.fa-search {
+position: fixed;
+margin-top: -25px;
+margin-left: 18%;
+margin-left: 250px !important;
+}
+.firefox_search {
+margin-left: -30px !important;
+}
+.fa-hand-o-up {
+margin-top:20px!important;
+}
+a {
+cursor:pointer;
+}
+#main_wrapper {
+overflow: hidden;
+margin-top:100px;
+}
+
+.navbar .nav>.active>a, .navbar .nav>.active>a:hover, .navbar .nav>.active>a:focus {
+color:yellow;
+}  
+.col-md-11 {
+margin-bottom: 3px !important;
+margin-left: 186px !important;
+margin-top: 168px !important;
+position: absolute !important;
+z-index: 100000000;
+}
+#song-content,.content {
+width: 820px !important;
+margin-left: -89px !important;
+margin-top: 77px;
+}
+code {
+	margin-left: 15px;
+    margin-top: -60px !important;
+    position: absolute !important;
+    white-space: normal !important;
+}
+.resultStats {
+	display: inline-block;
+    margin-left: 80% !important;
+    margin-top:0px !important;
+    position: absolute !important;
+}
+.btn-group a {
+cursor:pointer;
+}
+.container {
+margin-left: 275px!important;
+margin-top:115px;
+}
+body {
+--background-image: url('/images/background/body-bg.gif') !important;
+overflow-x: hidden !important;
+background-color:transparent;
+}
+.pagination {
+	margin-left: 30px!important;
+}
+.mobile {
+display: inline-block;
+position: absolute;
+margin-top: -8%;
+margin-left: 46%;
+font-size: 18px;
+width: 274%;
+}

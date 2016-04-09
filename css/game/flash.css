@@ -1,0 +1,96 @@
+#frame_right_ads {
+position: absolute;
+margin-left: 101%;
+margin-top: -90%;
+width: 160px;
+height: 490px;
+}
+
+#key_description li,.chat_comment li {
+width:105px!important ;
+display:inline-block;
+}
+
+#btn_add_to_my_game {
+position:absolute;
+margin-left:85.5%;
+margin-top:-4%;
+}
+.ads_header_wrapper {
+width:728px;
+height:90px;
+position:absolute;
+margin-left:410px;
+margin-top:-111px;
+}
+#add_game_success {
+margin-top: -235px;
+display: block;
+margin-left: -400px;
+}
+
+#game_related {
+margin-top: -15px;
+}
+img {
+cursor:pointer;
+}
+a {
+ color:#C633F5;
+}
+.tab-content {
+overflow:hidden;
+}
+
+embed {
+background-color: #DEF5E8;
+width: 74%;
+margin-left: 1%;
+height:575px;
+margin-top: 10px;
+}
+.game_key {
+margin-left: 5%;
+margin-top: 6%;
+position: absolute;
+color: rgb(226, 87, 87);
+width: 225px;
+height: 85px;
+}
+.game_key .key-definition {
+margin-left: 2%;
+margin-top: 1%;
+}
+#key_description {
+display: inline-block;
+position: relative;
+margin-top: 5%;
+width: 235px;
+margin-left: 15px;
+}
+.key_description .tab-content {
+  width: 330px;
+}
+#description {
+width: 235px;
+}
+#game_key {
+width: 300px;
+}
+.chat_comment {
+
+}
+#comment {
+	margin-left:5px!important;
+}
+#chat {
+display: inline-block;
+width: 200px;
+}
+.list_chat {
+display:inline-block;
+}
+#youtube_video_game{
+width: 65%;
+margin-left: -35%;
+}

@@ -1,0 +1,352 @@
+[class*="col-"] {
+    min-height: 0
+}
+.border{
+    border: 1px solid #ccc;
+}
+.relative{
+    position: relative;
+}
+.block{
+    display: block;
+}
+.inline-block{
+    display: inline-block;
+}
+body{
+    background: #ADADAD;
+}
+.mynav-orange{
+    background-color: #0186CA
+}
+.menu-nav .nav > li > a{
+    color: #FFFFFF;
+    border-bottom: 2px solid transparent;    
+}
+.menu-nav .nav > li > a:hover, .menu-nav .nav > li > a:focus , .menu-nav .nav > li.active > a{
+    background-color: transparent;
+    border-bottom: 2px solid #FFFFFF;
+}
+.frmsearch{
+    margin: 0;
+}
+input.mytextsearch:focus{
+    border-color: rgba(245,120,16, 0.8);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(245,120,16, 0.6);
+    outline: 0 none;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #FFFFFF;
+}
+.navbar-header .navbar-toggle:hover, .navbar-header .navbar-toggle:focus {    
+    border-color: #FFFFFF;
+}
+.mynav-blackwhite{
+    background-color: #EEEEEE;    
+    min-height: 35px;
+}
+
+.main-content .container{
+    min-height: 480px;
+    margin-top: 5px;
+    background-color: #ffffff;
+}
+.main-content .pagination{
+    float: right;
+    margin-right: 15px;
+}
+.widget:after,.widget:before{
+    content: "";
+    display: table;
+}
+.widget:after{
+    clear: both;
+}
+.widget-simple{
+    padding: 0 10px;
+}
+.widget-header{
+    border-bottom: 1px solid #BBBBBB;    
+} 
+.header-small{
+    min-height: 20px;
+}
+.resultStats{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.resultStats:hover{
+    background-color: #ffffff !important;
+}
+.song-content .vote-wrapper, .ajax-result .vote-wrapper{
+    cursor: pointer;
+}
+.song-content .glyphicon.glyphicon-thumbs-up{
+    font-size: 24px;
+    color: #1FA02F;
+    margin-top: 10px;
+}
+.song-content .vote-count, .ajax-result .vote-count{
+    color: #818181;
+    font-style: italic;
+    font-size: 12px;
+    display: inline-block;
+    position: relative;
+    top: -15px
+}
+.ajax-result .vote-count{
+    font-size: 10px;
+}
+.ajax-result .glyphicon.glyphicon-thumbs-up{
+    font-size: 18px;
+    color: #1FA02F;
+    margin-top: 10px;
+}
+.song-content .song_code{
+    color: #F58427;
+    margin: 5px 0;
+}
+.song_title{
+    text-transform: uppercase;
+}
+.song-content .song_title{
+    color: #12AA24;
+    margin: 5px 0;
+}
+.song-content  .song_lyric{
+    font-weight: normal;
+    color: #6C6A6A;
+    margin: 5px 0;
+}
+.song-content .song_composed{
+    font-weight: normal;
+    color: #9D9D9D;
+    margin: 5px 0 10px 0;
+}
+.ajax-result{
+    position: absolute;
+    padding: 0 !important;
+    margin: 0 !important;
+    left: 15px;
+    top: 43px;
+    z-index: 999;
+    display: none;
+    white-space:normal !important;
+}
+.ajax-result .widget-header{
+    border-bottom: 1px solid #85C9EC;    
+} 
+.ajax-result .widget-simple{
+    background-color: #FCFD91;
+}
+.ajax-result .widget-simple:hover{
+    background-color: #D9F7FF;
+}
+.ajax-result [class*=song_] {
+    padding: 4px;
+}
+.ajax-result .song_code{
+    color: #12AA24;
+    font-size: 25px;
+    margin:0;
+}
+.ajax-result .song_title{
+    font-size: 15px;
+    color: #EF7500;
+    margin:-5px 0 0 0;
+    font-weight: bold
+}
+.ajax-result  .song_lyric{
+    font-size: 15px;
+    font-weight: normal;
+    color: #6C6A6A;
+    margin:0;
+}
+.ajax-result .song_composed{
+    font-weight: normal;
+    color: #9D9D9D;
+    margin:0;
+}
+.widget-simple:hover{
+    background-color: #ECFBFF;
+}
+.widget-simple{
+    background-color: #FFFFFF;
+}
+.widget-simple .adsbygoogle {
+    margin-left: -20px;
+}
+/* Giá vàng */
+.table-giavang{
+    font-size: 12px;
+}
+.table-giavang h3{
+    font-size: 16px;
+    line-height: 5px;
+}
+.table-giavang tr.thead0{
+    background-color: #FAAB55;
+}
+.table-giavang tr.thead1{
+    background-color: #F7B25F;
+}
+.table-giavang .cellGrey-sub{
+    background-color: #BDECFF;
+    font-weight: bold;
+    font-style: italic;
+    color: #0C69A5;
+}
+.table-giavang .loaiVang{
+    font-weight: bold;
+    font-size: 13px;
+}
+.table-giavang .priceDown {
+    color: #FF0000;
+    padding-right: 3px;
+}
+.table-giavang .priceUp {
+    color: #029906;
+    padding-right: 3px;
+}
+.table-giavang  .source {
+    color: #ADADAD;
+    font-style: italic;
+    border-top-right-radius: 0px !important;
+    background-color: #FBFBFB;
+    font-weight: 500;
+}
+/* END Giá vàng */
+
+/* Ty giá */
+.source{
+    color: #FFFFFF;
+    font-weight: bold;
+    margin: 5px 0 0 0;
+    background-color: #0E5841;
+    padding: 5px 5px;
+    width: 120px;
+    border-top-right-radius: 50px;
+}
+.table-tygia{
+    font-size: 12px;
+}
+.table-tygia th{
+    background-color: #12712F;
+    color: #ffffff;
+    font-size: 14px;
+}
+.table-tygia .odd{
+    background-color: #E6F0E1;
+}
+
+.table-tygia .odd:hover, .table-tygia .even:hover{
+    background-color: #BED9B2;
+}
+/* END Ty giá */
+/* Giá thị trường */
+.giathitruong .price:nth-of-type(1) .title-price{    
+    margin-top: 5px;
+}
+.giathitruong .price .title-price{
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Tahoma;
+    padding: 5px 0 5px 5px;
+    background-color: #2F95B3;
+    color: #ffffff;
+    width: 135px;
+    border-top-right-radius: 50px;   
+}
+.giathitruong th, .giathitruong th.t-cen{
+    background-color: #AABBC5;
+    font-size: 14px;
+    text-align: center;
+    vertical-align: middle;
+}
+.giathitruong td.t-cen{
+    background-color: #F3CDAE;
+    text-align: center;
+    vertical-align: middle;
+}
+.giathitruong table{
+    background-color: #DDEBF3;
+    font-size: 12px;
+}
+.giathitruong tr:hover{
+    background-color: #BACEDA;
+}
+/* END Giá thị trường */
+.footer .container{
+    border-top: 5px solid #F5F5F5;
+    min-height: 50px;
+    background-color: #FFFFFF;
+    padding-top: 10px
+}
+.footer-content{
+    margin: 0 15px;
+}
+.footer .footerSeo {
+    margin-bottom: 10px;
+}
+.fb-like{
+    margin-top:7px;
+    display: inline-block;
+}
+.fb-like iframe{
+    max-height: 27px !important;
+}
+.fb-note{
+    display: inline-block;
+    margin-top:7px;
+}
+.fb-note a{
+    text-decoration:none;
+}
+code .like{
+    color: #3B579D;
+}
+.loadinggif {
+    background:url('../images/ajax-loader.gif') no-repeat right center;
+}    
+.loading {
+    background:url('../images/ajax-loader_001.gif') no-repeat center center;
+}
+
+#alert-modal{
+    z-index: 99999;
+}
+#alert-modal .modal-body{
+    max-height: 450px;
+    overflow-y: auto;
+}
+#alert-modal .modal-footer{
+    margin-top: 0;
+    padding: 10px 20px;
+}
+
+.input-with740 {
+    width: 580px !important;
+}
+
+.input-with740 {
+    width: 380px !important;
+}
+
+@media (max-width: 360px){
+    .navbar-header .navbar-toggle{
+        margin-right: 0
+    }
+    .input-with740 {
+        width: 260px !important;
+    }
+}
+
+@media (min-width: 768px){
+    #alert-modal .modal-dialog {
+        width: 400px;
+    }
+    .input-with740 {
+        width: 580px !important;
+    }
+}

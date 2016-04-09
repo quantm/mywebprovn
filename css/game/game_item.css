@@ -1,0 +1,252 @@
+#table_related {
+margin-left: 5%;	
+}
+#description {
+  overflow: hidden;
+}
+.fb_iframe_widget {
+margin-left:-30px !important;
+}
+#globalheader{
+margin-top:-42px!important;
+}
+.game_ads_unity {
+position:fixed;
+margin-left:88%;
+margin-top:4px;
+}
+.game_ads_wrapper {
+position:absolute;
+margin-left: 76%;
+margin-top: 150px;
+}
+.game_header {
+margin-top: 5px;
+margin-bottom: 15px;
+height: 40px;
+position: relative;
+background-color: rgb(255, 255, 255);
+margin-left: 15px;
+margin-right: 15px;
+}
+.game_description {
+display: inline-block;
+position: absolute;
+margin-top: 45%;
+background-color: #DEF5E8;	
+border-radius: 15px 15px 15px 15px;
+margin-left: 15px;
+width: 475px;
+height: 85px;
+text-align: justify;
+}
+
+.chat_comment {
+display: block;
+width: 73%;
+height: 300px;
+margin-left:1%;
+margin-top: 30px;
+}
+
+.key_description {
+position: absolute;
+margin-left:75%;
+display: block;
+width: 60px;
+margin-top: 2%;
+}
+
+.description {
+margin-top: 10px;
+display: block;
+margin-left: 15px;
+margin-right: 15px;
+color: rgb(14, 3, 3);
+font-size: 15px;
+}
+
+.game_thumbs {
+display: inline-block;
+margin-left: 10px;
+}
+
+.game_wrapper {
+position: absolute;
+width: 74% !important;
+margin-right: 15px;
+margin-top: 22px;
+margin-left: 13% !important;
+background-color: rgb(255,255,255) !important;
+}
+
+.game_thumbs img {
+width:70px;
+height:60px;
+border-radius: 10px 10px 10px 10px;
+}
+
+.game_name {
+min-width: 190px;
+font-size: 15px;
+font-weight: bold;
+color: #bd128c;
+text-shadow: #eec2bd 1px 1px 1px;
+margin-top: 10px;
+display: inline-block;
+position: absolute;
+}
+.game_description {
+color: #000000;
+display: inline-block;    
+margin-right: 20px;
+float: right;
+text-align:justify;
+max-width:275px;
+word-break: break-all;
+margin-top: 15px;
+}
+
+#unityPlayer {
+width: 685px;
+height: 97%;
+margin-bottom: 5px;
+margin-top: 25px;
+display: block;
+margin-top:15px;
+margin-left:15px;
+z-index:100000;
+}
+
+
+.game_key .key-definition  {
+display: inline-block;
+width: 115px;
+}
+.game_key .key-definition span  {
+display: inline-block;
+position: absolute;
+margin-top: -20px;
+margin-left: 36px;
+}
+
+hr {
+margin-top:5px;
+}
+
+input {
+margin-top:15px;
+height:25px;
+}
+
+.unity_fullscreen{
+display: inline-block;
+position: absolute;
+margin-left:69%;
+margin-top:10%;
+color: #808080;
+}
+.modal-body {
+padding-left: 5px;
+padding-right: 15px;
+padding-bottom: 3px;
+}
+
+.adsense_wrapper {
+display: block;
+position:absolute;
+float: left;
+height:615px;
+width:135px;
+margin-left: 88%;	
+margin-top: 5%;
+}
+
+.google_adsense_flash_wrapper {
+float: left;
+background-color:rgb(240, 248, 248);
+text-align: center;
+box-shadow: 2px 2px 5px #CCB3B3;
+display:inline-block;
+--width:728px;
+width:100%;
+height:90px
+}
+
+.game_item_wrapper {
+	display: block;
+    height: 100%;
+    margin-top: 45px;
+    position: fixed;
+    width: 100%;
+}
+
+object {
+display:block;
+}
+.game_item_wrapper iframe {
+	width:85% !important;
+}
+
+.game_item_wrapper object embed {
+height: 585px;
+width: 85% !important;
+position: absolute;
+margin-top: 55px;
+margin-left: 5px;
+}
+
+.game_operation {
+float: left;
+background-color:rgb(240, 248, 248);
+text-align: center;
+box-shadow: 2px 2px 5px #CCB3B3;
+display:inline-block;
+--width:728px;
+width:100%;
+height:90px
+}
+
+.unity_not_found {
+margin-left:40px;
+position: absolute;
+z-index: 10000000;
+margin-top: -25px;
+}
+
+.guide_video {
+width: 715px;
+height: 445px;
+margin-top: -25px;
+margin-left: 15px;
+}
+
+.missing h5 {
+margin-left: 290px;
+font-size: 15px;
+}
+.main_frame{
+width: 875px;
+margin-left: -275px;
+}
+.side_bar {
+margin-left:5px;
+width: 375px;
+}
+.nav_footer{
+
+}
+.outer {
+margin-left: 180px;
+} 
+
+.Header h1 {
+font: normal bold 40px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #22A222; 
+text-shadow: #2B180D 4px 4px 4px;
+}
+
+.post-outer h3 a {
+color: rgba(236, 25, 127, 0.98);
+text-shadow: #756B69 1px 1px 1px;
+}

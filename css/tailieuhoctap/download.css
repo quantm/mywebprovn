@@ -1,0 +1,455 @@
+/*eclick style*/
+.general_category {
+	cursor:pointer;
+}
+/*end*/
+
+.book-like {
+  margin-left: 55%;
+  position: absolute;
+  margin-top: 5.1%!important;
+}
+
+.adv_ants_right {
+  position: fixed;
+  margin-top: 22px!important;
+}
+
+.adv_micro_left {
+  position: fixed;
+  margin-left: 160px;
+  margin-top: 24px;
+}
+.adv_micro_left *,.adv_micro_right * {
+  background-color: rgb(238, 244, 245)!important;
+  border:none!important;
+}
+#close_category{
+  float: right;
+  margin-top: -1px;
+  font-size: 25px;
+  float:right;
+  cursor:pointer;
+}
+.blink {
+	background-color:#B8FFC1;
+}
+.advertisement_hightlight {
+  background: bisque!important;
+}
+
+.book_category {
+  float: left;
+  padding: 0 0 3px 0;
+  position: fixed;
+  left: 0;
+  z-index: 10000;
+  border-radius: 2px 2px 2px 2px;
+  width: 175px;
+  margin-top: 7%;
+  margin-left: 22.15% !important;
+  line-height: 20px;
+  font-size: 13px;
+  color: rgb(241, 241, 241);
+  display: none;
+  background-color: rgb(31, 3, 3);
+  z-index:1000000;
+}
+.book_category div {
+	margin-left: 10px;
+}
+.book_category a:link {
+	color: #52915C;
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 22px;
+}
+
+.book_name {
+	margin-top: 5px;
+	font-size: 15px;
+	margin-left: 25px;
+	line-height: 17px;
+	max-width: 900px;
+}
+.book_pdf_html {
+	width:880px;
+	height: 600px;
+	margin-top: 65px;
+	margin-left: 12.5%;
+}
+.book_header {
+  background-color: rgb(238, 244, 245);
+  position: absolute;
+  margin-top: 25px;
+  width: 855px;
+  margin-left: 14%;
+  height: 35px;
+}
+.fanpage {
+	margin-left: 76%;
+	margin-top: 2%;
+	position: absolute;
+}
+#book_lookup_word {
+	float:left;
+	color: rgb(0, 112, 255);
+	margin-left: 15px;
+	margin-top: 3px;
+	width:95%;
+}
+.success_charge_card {
+display: block;
+margin-left: 25px;
+}
+#modal-card-charge{
+display: block;
+width: 55%;
+overflow: hidden;
+margin-top: -15%;
+margin-left: -35%;
+}
+#modal-card-charge iframe{
+width: 100%;
+height: 75%;
+overflow: hidden;
+border: none;
+}
+#book_load_and_share {
+width: 400px;
+height: 20px;
+float: right;
+margin-left: 70%;
+position: absolute;
+margin-top: 4px;
+color: red;
+}
+#book_title_read_online {
+color:blue;
+height: 0px;
+margin-left: 1%;
+font-size: 15px;
+margin-top: 2px;
+font-weight: bold;
+}
+.download_function {
+background-color: transparent;
+width: 90px;
+height: 40px;
+position: absolute;
+margin-top: -5%;
+margin-left: 87%;
+}
+.download_notification {
+position: absolute;
+margin-top: 24%;
+margin-left:-62%;
+display:none;
+}
+.tb_dang_ky {
+float: right;
+position: fixed;
+width: 100%;
+margin-top: -15px;
+margin-left: 15px;
+font-size: 14px;
+}
+#modal_read_online{
+margin-top: -21.6%;
+display: block;
+width: 99%;
+margin-left: -49.5%;
+height: 98%;
+overflow-y: hidden;
+}
+.doc_icon_desc {
+width: 140px;
+height: 180px;
+position: fixed;
+display: inline-block!important;
+border: 1px solid;
+margin-left: 35px;
+border-radius:5px 5px 5px 5px;
+}
+.right_title {
+margin-top: -375px;
+margin-left: 65px;
+font-size: 14px;
+font-weight: bold;
+color: blue;
+max-width: 200px;
+}
+.book_cover {
+box-shadow: 3px 3px 3px 3px;
+width:320px !important;
+height:480px;
+}
+
+.hight_light {
+background-color:rgb(244, 224, 224)!important;
+}
+.moduletable a {
+cursor:pointer;
+}
+.sachlienquan
+{
+color: #005800;
+display: none;
+height: 520px;
+margin-left: 17px;
+margin-top: -7px;
+overflow: auto;
+width: 93%;
+}
+
+.tabt{
+display: inline-block;
+margin-top: -5px;
+cursor:pointer;
+}
+
+.bgtab{
+background-color:#A51010;
+width: 93%;
+margin-left: 20px;
+height: 25px;
+font-size:17px;
+border-radius: 8px;
+}
+#tabs2 {
+margin-left: 34px;
+color: white;
+z-index: 900000;
+position: absolute;
+}
+.sachcungtacgia {
+color: #005800;    
+height: 430px!important;
+margin-left: 17px;
+margin-top: -7px;
+overflow: auto;
+width: 93%;
+}
+
+.tabt:hover{
+color: #ff8300;
+}
+
+.tabtac {
+padding-left: 37px;
+color: #fff;
+z-index: -1 !important;
+margin-left: -20px;
+}  
+.them {
+margin-left: 1%;
+width: 62%;
+margin-top: -5%;
+}
+.pdf_book_title {
+margin-left: 3%!important;
+top: -115px!important;
+position: absolute !important;
+z-index: 10000;
+height:35px;
+max-width: 425px;
+}
+.social_link div{
+margin-left:10px !important;
+}
+#text_choose_background {
+top: 110px;
+position: absolute;
+width: 200px;
+margin-left: -140px;
+}
+.btn_download {
+  margin-left: 69.5%!important;
+  height: 27px!important;
+  width: 105px!important;
+  text-shadow: 0 0.032em 0 #611C1C, 0px 0.15em 0.11em rgba(0,0,0,0.15), 0px 0.25em 0.021em rgba(0,0,0,0.1), 0px 0.32em 0.32em rgba(0,0,0,0.1);
+  top: 97px!important;
+  position: absolute!important;
+  z-index: 5000;
+}
+.btn-add-book {
+text-shadow: 0 0.032em 0 #611C1C, 0px 0.15em 0.11em rgba(0,0,0,0.15), 0px 0.25em 0.021em rgba(0,0,0,0.1), 0px 0.32em 0.32em rgba(0,0,0,0.1);
+top: -7px!important;
+margin-left: 67.5%!important;
+height: 30px!important;
+width: 235px!important;
+position: absolute!important;
+z-index:5000;
+display:none!important;
+}
+.btn-print {
+text-shadow: 0 0.032em 0 #611C1C, 0px 0.15em 0.11em rgba(0,0,0,0.15), 0px 0.25em 0.021em rgba(0,0,0,0.1), 0px 0.32em 0.32em rgba(0,0,0,0.1);
+top: 300px!important;
+margin-left: 18%!important;
+height: 30px!important;
+width: 85px!important;
+position: absolute!important;
+z-index:5000;
+}
+
+#user_choose_bgcolor{
+top: -100px;
+margin-left: 30%;
+height: 35px;
+position:absolute;
+display:block;
+width: 56px;
+}
+#___plusone_0 {
+margin-top: -11%!important;
+margin-left: 57%!important;
+}
+body{
+overflow: hidden;
+background-color: rgb(238, 244, 245);
+}
+.fb-share-button {
+margin-top:6px;
+}
+#reading_fb_comment{
+margin-left: 3%;
+margin-top: 1%;
+}
+.reading_player {
+margin-left:3%;
+}
+.fb-like {
+margin-top:5px;
+}
+
+.mo_ta_tai_lieu {
+font-size: 15px;
+line-height: 18px;
+max-width: 825px;
+text-align: justify;
+margin-left:13.5%;
+font-weight: 500;
+color: rgb(42, 33, 33);
+}
+
+.downloading {
+font-size: 15px;
+color: red;
+margin-top:5px;
+margin-left: 15px;
+}
+.book_user_comment {
+margin-left:70px;
+}
+.comment_content {
+margin-left: 10px;
+display: inline-block;
+text-align: justify;
+width: 55%;
+}
+#btn_comment{
+margin-top: 276px;
+margin-left: 50%;
+z-index: 10000;
+display: inline-block;
+position: absolute;
+}
+.book_comment {
+width: 600px;
+margin-left: 53%;
+height: 85px;
+resize: none;
+overflow-x: scroll;
+margin-top: -108px;
+position: static;
+}
+
+.social_link_read_online {
+margin-left:84.5% !important;
+margin-top:-12px !important;
+}
+
+.social_link {
+	height: 30px;
+	margin-top: 63px;
+	float: left;
+	padding: 0 0 3px 0;
+	position: absolute;
+	left: 0;
+	z-index: 10000;
+	width: 175px;
+	margin-left:22%;
+}
+.ads_header_wrapper {
+margin-top: -100px !important;
+}
+.item-page {
+top:65px;
+display: block;
+position: absolute;
+width: 100%;
+}
+#book_facebook_fan_page {
+position: fixed;
+margin-left: 77%;
+margin-top: 22.5%;
+}
+
+.eclik_advertisement_left {
+  float: left;
+  height: auto;
+  width: auto;
+  margin-left:23px;
+  margin-top:22px;
+  position: fixed;
+}
+
+.eclik_advertisement_right {
+  float: right;
+  height: auto;
+  width: auto;
+  margin-left:88.5%;
+  margin-top: 24px;
+  position: fixed
+}
+
+.viewer {
+position: absolute;
+width: 100%;
+margin-top: -6%;
+margin-left: 60%;
+display: block;
+}
+.viewer img {
+width:80%;
+margin-top: 40px;
+margin-left: 15px;
+}
+.font-effect-putting-green {
+margin-left:2.5%;
+max-width:785px;
+line-height:25px;
+font-size:15px !important;
+margin-top:5px;
+max-height:325px;
+}
+.note {
+cursor: pointer;
+font-size: 20px;
+color: red;
+margin-top: -35px;
+margin-left: 55px;
+}
+#modal_user_category {
+	margin-top:-10%;
+	font-size:14px;
+}
+.view_my_bookcase{
+	float: left;
+	position: fixed;	
+	margin-left: -12%;
+	margin-top: -1px;
+}
+.fixed_note {
+margin-top: 50px;
+}
